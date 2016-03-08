@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Passaporte</nome>
+    <nome><![CDATA[Passaporte]]></nome>
     <sigla/>
-    <nomes-populares/>
-    <descricao>Execução de atividades relacionadas ao serviço de expedição e controle de documentos de viagem, emitidos pela Polícia Federal:
+    <nomes-populares>
+        <item>papel internacional</item>
+        <item>carteira pra viajar</item>
+    </nomes-populares>
+    <descricao><![CDATA[Execução de atividades relacionadas ao serviço de expedição e controle de documentos de viagem, emitidos pela Polícia Federal:
 
 * Passaporte comum;
 * Passaporte para estrangeiro;
@@ -33,7 +36,8 @@ Observação:
 * [Mais informações](http://www.dpf.gov.br/servicos/passaporte): Informações gerais sobre Passaporte
 * [Telefone](undefined): Dúvidas sobre Emissão de Passaportes: ligue 194
 * [Localização das unidades](http://www.dpf.gov.br/institucional/pf-pelo-brasil/): Unidades do Departamento da Polícia Federal de cada região
-* [Mais informações](http://www.dpf.gov.br/servicos/passaporte/documentacao-necessaria): Documentação necessária para requerer Passaporte</descricao>
+* [Mais informações](http://www.dpf.gov.br/servicos/passaporte/documentacao-necessaria): Documentação necessária para requerer Passaporte]]></descricao>
+    <contato/>
     <gratuito>false</gratuito>
     <solicitantes/>
     <tempo-total-estimado>
@@ -49,7 +53,7 @@ Observação:
             <custos>
                 <default>
                     <custo>
-                        <descricao>Taxa de emissão</descricao>
+                        <descricao><![CDATA[Taxa de emissão]]></descricao>
                         <moeda>R$</moeda>
                         <valor>275,25</valor>
                     </custo>
@@ -58,7 +62,7 @@ Observação:
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="web">
-                        <descricao>http://www.dpf.gov.br/servicos/passaporte/requerer-passaporte</descricao>
+                        <descricao><![CDATA[http://www.dpf.gov.br/servicos/passaporte/requerer-passaporte]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
