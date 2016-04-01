@@ -29,7 +29,10 @@ XII - aos juízes brasileiros em Tribunais Internacionais Judiciais ou Tribunais
         </solicitante>
         <solicitante>
             <tipo>Oficial</tipo>
-            <requisitos/>
+            <requisitos><![CDATA[I - aos servidores da administração direta que viajem em missão oficial dos governos Federal, Estadual e do Distrito Federal;
+II - aos servidores das autarquias dos governos Federal, Estadual e do Distrito Federal, das empresas públicas, das fundações federais e das sociedades de economia mista em que a União for acionista majoritária;
+III - às pessoas que viajem em missão relevante para o País, a critério do Ministério das Relações Exteriores;
+IV - aos auxiliares de adidos credenciados pelo Ministério das Relações Exteriores.]]></requisitos>
         </solicitante>
         <solicitante>
             <tipo>Comum</tipo>
@@ -37,11 +40,20 @@ XII - aos juízes brasileiros em Tribunais Internacionais Judiciais ou Tribunais
         </solicitante>
         <solicitante>
             <tipo>Para estrangeiro</tipo>
-            <requisitos/>
+            <requisitos><![CDATA[I - no território nacional:
+a) ao apátrida ou de nacionalidade indefinida;
+b) ao asilado ou refugiado no País, desde que reconhecido nestas condições pelo governo brasileiro;
+c) ao nacional de país que não tenha representação no território nacional nem seja representado por outro país, ouvido o Ministério das Relações Exteriores;
+d) ao estrangeiro comprovadamente desprovido de qualquer documento de identidade ou de viagem, e que não tenha como comprovar sua nacionalidade;
+e) ao estrangeiro legalmente registrado no Brasil e que necessite deixar o território nacional e a ele retornar, nos casos em que não disponha de documento de viagem;
+II - no exterior:
+a) ao apátrida ou de nacionalidade indefinida;
+b) ao cônjuge, viúvo ou viúva de brasileiro que haja perdido a nacionalidade originária em virtude de casamento;
+c) ao estrangeiro legalmente registrado no Brasil e que necessite ingressar no território nacional, nos casos em que não disponha de documento de viagem válido, ouvido o Departamento de Polícia Federal.]]></requisitos>
         </solicitante>
         <solicitante>
             <tipo>De emergência</tipo>
-            <requisitos/>
+            <requisitos><![CDATA[Será concedido passaporte de emergência àquele que, tendo satisfeito às exigências para concessão de passaporte, necessite de documento de viagem com urgência e não possa comprovadamente aguardar o prazo de entrega, nas hipóteses de catástrofes naturais, conflitos armados ou outras situações emergenciais, individuais ou coletivas, definidas em ato dos Ministérios da Justiça ou das Relações Exteriores, conforme o caso.]]></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
