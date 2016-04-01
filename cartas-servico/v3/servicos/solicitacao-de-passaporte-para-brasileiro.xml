@@ -59,7 +59,7 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="web-emitir">
-                        <descricao><![CDATA[Reemissão da GRU (https://servicos.dpf.gov.br/sinpa/reemissaoGRU.do?dispatcher=exibirConsulta)]]></descricao>
+                        <descricao><![CDATA[[Reemissão da GRU](https://servicos.dpf.gov.br/sinpa/reemissaoGRU.do?dispatcher=exibirConsulta)]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -80,6 +80,6 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
         <item>Emissão</item>
     </palavras-chave>
     <legislacoes>
-        <item><![CDATA[http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5978.htm]]></item>
+        <item><![CDATA[[Legislação](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5978.htm)]]></item>
     </legislacoes>
 </servico>
