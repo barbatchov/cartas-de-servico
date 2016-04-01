@@ -12,7 +12,7 @@ Telefone (61) 3326-5420]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
         <solicitante>
-            <tipo>Brasileiro maior de 18 anos</tipo>
+            <tipo>Maior de 18 anos</tipo>
             <requisitos><![CDATA[I - ser brasileiro;                          
 II - comprovar sua identidade e demais dados pessoais necessários ao cadastramento no banco de dados de requerentes de passaportes;                          
 III - estar quite com a justiça eleitoral e o serviço militar obrigatório;                          
@@ -22,7 +22,7 @@ VI - não ser procurado pela Justiça nem impedido judicialmente de obter passap
         </solicitante>
         <solicitante>
             <tipo>Brasileiro menores de 18 anos</tipo>
-            <requisitos><![CDATA[Quando se tratar de menor de 18 anos, será exigida autorização de ambos os genitores ou do responsável legal, Formulário de Autorização para Obtenção de Passaporte para Menor, salvo nos casos de cessação de incapacidade previstos em lei.]]></requisitos>
+            <requisitos/>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
@@ -38,6 +38,9 @@ Nas abas, os campos marcados com asterisco (\*) são sempre OBRIGATÓRIOS. Algun
 Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posicionando o cursor do mouse sobre o mesmo, fornece algumas informações adicionais sobre o preenchimento do campo, facilitando o entendimento.]]></descricao>
             <documentos>
                 <default/>
+                <caso descricao="Brasileiro menores de 18 anos">
+                    <item>Formulário de Autorização para Obtenção de Passaporte para Menor</item>
+                </caso>
             </documentos>
             <custos>
                 <default/>
