@@ -72,6 +72,10 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
         <item>Cidadania</item>
         <item>Policiamento</item>
     </areas-de-interesse>
-    <palavras-chave/>
+    <palavras-chave>
+        <item>Passaporte</item>
+        <item>Visto</item>
+        <item>Emissão</item>
+    </palavras-chave>
     <legislacoes/>
 </servico>
