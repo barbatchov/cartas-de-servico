@@ -13,7 +13,7 @@ Telefone (61) 3326-5420]]></contato>
     <solicitantes>
         <solicitante>
             <tipo>Brasileiro maior de 18 anos</tipo>
-            <requisitos/>
+            <requisitos><![CDATA[Deve ser brasileiro maior de idade.]]></requisitos>
         </solicitante>
         <solicitante>
             <tipo>Brasileiro menores de 18 anos</tipo>
@@ -86,6 +86,19 @@ A maneira mais fácil e rápida de efetuar o agendamento é clicando sobre o bot
                 </default>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Comparecimento na Unidade de Polícia Federal</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/324"/>
     <segmentos-da-sociedade>
@@ -102,6 +115,6 @@ A maneira mais fácil e rápida de efetuar o agendamento é clicando sobre o bot
         <item>Emissão</item>
     </palavras-chave>
     <legislacoes>
-        <item><![CDATA[[Legislação](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5978.htm)]]></item>
+        <item><![CDATA[[Decreto nº 1983/96](http://www.planalto.gov.br/ccivil_03/decreto/1996/D1983.htm)]]></item>
     </legislacoes>
 </servico>
