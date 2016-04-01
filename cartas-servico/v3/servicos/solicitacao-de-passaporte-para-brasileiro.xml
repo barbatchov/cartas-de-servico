@@ -36,7 +36,7 @@ IV - aos auxiliares de adidos credenciados pelo Ministério das Relações Exter
         </solicitante>
         <solicitante>
             <tipo>Comum</tipo>
-            <requisitos/>
+            <requisitos><![CDATA[Ser brasileiro;]]></requisitos>
         </solicitante>
         <solicitante>
             <tipo>Para estrangeiro</tipo>
