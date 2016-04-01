@@ -13,16 +13,34 @@ Telefone (61) 3326-5420]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
         <solicitante>
-            <tipo>Maior de 18 anos</tipo>
-            <requisitos><![CDATA[I - ser brasileiro;                          
-II - comprovar sua identidade e demais dados pessoais necessários ao cadastramento no banco de dados de requerentes de passaportes;                          
-III - estar quite com a justiça eleitoral e o serviço militar obrigatório;                          
-IV - recolher a taxa ou emolumento devido;                          
-V - submeter-se à coleta de dados biométricos; e                          
-VI - não ser procurado pela Justiça nem impedido judicialmente de obter passaporte.]]></requisitos>
+            <tipo>Diplomático</tipo>
+            <requisitos><![CDATA[I - ao Presidente da República, ao Vice-Presidente e aos ex-Presidentes da República;
+II - aos Ministros de Estado, aos ocupantes de cargos de natureza especial e aos titulares de Secretarias vinculadas à Presidência da República;
+III - aos Governadores dos Estados e do Distrito Federal;
+IV - aos funcionários da Carreira de Diplomata, em atividade e aposentados, de Oficial de Chancelaria e aos Vice-Cônsules em exercício;
+V - aos correios diplomáticos;
+VI - aos adidos credenciados pelo Ministério das Relações Exteriores;
+VII - aos militares a serviço em missões da Organização das Nações Unidas e de outros organismos internacionais, a critério do Ministério das Relações Exteriores;
+VIII - aos chefes de missões diplomáticas especiais e aos chefes de delegações em reuniões de caráter diplomático, desde que designados por decreto;
+IX - aos membros do Congresso Nacional;
+X - aos Ministros do Supremo Tribunal Federal, dos Tribunais Superiores e do Tribunal de Contas da União;
+XI - ao Procurador-Geral da República e aos Subprocuradores-Gerais do Ministério Público Federal; e
+XII - aos juízes brasileiros em Tribunais Internacionais Judiciais ou Tribunais Internacionais Arbitrais.]]></requisitos>
         </solicitante>
         <solicitante>
-            <tipo>Brasileiro menores de 18 anos</tipo>
+            <tipo>Oficial</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Comum</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Para estrangeiro</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>De emergência</tipo>
             <requisitos/>
         </solicitante>
     </solicitantes>
