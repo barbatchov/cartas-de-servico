@@ -63,9 +63,15 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
-    <segmentos-da-sociedade/>
-    <areas-de-interesse/>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/324"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Lazer</item>
+        <item>Cidadania</item>
+        <item>Policiamento</item>
+    </areas-de-interesse>
     <palavras-chave/>
     <legislacoes/>
 </servico>
