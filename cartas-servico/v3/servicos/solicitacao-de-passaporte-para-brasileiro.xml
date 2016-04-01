@@ -55,7 +55,11 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
                 </default>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="web-emitir">
+                        <descricao><![CDATA[Reemissão da GRU (https://servicos.dpf.gov.br/sinpa/reemissaoGRU.do?dispatcher=exibirConsulta)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
