@@ -27,7 +27,7 @@ VI - não ser procurado pela Justiça nem impedido judicialmente de obter passap
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <ate max="2" unidade="meses"/>
+        <ate max="6" unidade="dias-uteis"/>
         <descricao/>
     </tempo-total-estimado>
     <etapas>
