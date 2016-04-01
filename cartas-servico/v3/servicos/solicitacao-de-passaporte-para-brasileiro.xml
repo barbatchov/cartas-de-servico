@@ -23,7 +23,7 @@
             <titulo>Formulário de Solicitação do Passaporte</titulo>
             <descricao><![CDATA[O Formulário é dividido em quatro abas: Dados Pessoais; Documentos; Dados Complementares; e Local de Atendimento.
 
-Nas abas, os campos marcados com asterisco (*) são sempre OBRIGATÓRIOS. Alguns outros campos poderão ser requisitados, mesmo não tendo o asterisco (*).
+Nas abas, os campos marcados com asterisco (\*) são sempre OBRIGATÓRIOS. Alguns outros campos poderão ser requisitados, mesmo não tendo o asterisco (\*).
 Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posicionando o cursor do mouse sobre o mesmo, fornece algumas informações adicionais sobre o preenchimento do campo, facilitando o entendimento.]]></descricao>
             <documentos>
                 <default/>
