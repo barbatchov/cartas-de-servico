@@ -32,6 +32,29 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
                 <default/>
             </custos>
             <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao><![CDATA[Este é um link para [Formulário de Solicitação do Passaporte](https://servicos.dpf.gov.br/sinpa/inicializacaoSolicitacao.do?dispatch=inicializarSolicitacaoPassaporte).]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Geração de Protocolo e GRU</titulo>
+            <descricao><![CDATA[Depois de clicar no botão "Enviar" da etapa anterior, aparece uma tela informando o número do protocolo da solicitação, além de algumas informações importantes para o requerente, e também a GRU (Guia de Recolhimento da União) para a taxa a ser paga pelo Passaporte (botão "Imprimir Protocolo / GRU" ativado).]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Pagamento da GRU]]></descricao>
+                        <moeda/>
+                        <valor>257,25</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
                 <default/>
             </canais-de-prestacao>
         </etapa>
