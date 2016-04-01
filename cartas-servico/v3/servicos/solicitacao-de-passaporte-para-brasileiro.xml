@@ -5,14 +5,37 @@
     <nomes-populares>
         <item>Emissão do Passaporte</item>
     </nomes-populares>
-    <descricao/>
+    <descricao><![CDATA[O Passaporte Brasileiro é o documento oficial,  emitido pelo Departamento de Polícia Federal (DPF) (ou pelas Embaixadas do Brasil no exterior),  que identifica o cidadão brasileiro perante as autoridades  de outros países,  permitindo  a  anotação  de  entrada  e saída pelos  portos, aeroportos e vias  de acesso internacionais. Permite também conter os vistos de autorização de entrada.]]></descricao>
     <contato/>
-    <gratuito/>
-    <solicitantes/>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Brasileiro maior de 18 anos</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
+        <ate max="2" unidade="meses"/>
         <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Formulário de Solicitação do Passaporte</titulo>
+            <descricao><![CDATA[O Formulário é dividido em quatro abas: Dados Pessoais; Documentos; Dados Complementares; e Local de Atendimento.
+
+Nas abas, os campos marcados com asterisco (*) são sempre OBRIGATÓRIOS. Alguns outros campos poderão ser requisitados, mesmo não tendo o asterisco (*).
+Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posicionando o cursor do mouse sobre o mesmo, fornece algumas informações adicionais sobre o preenchimento do campo, facilitando o entendimento.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
