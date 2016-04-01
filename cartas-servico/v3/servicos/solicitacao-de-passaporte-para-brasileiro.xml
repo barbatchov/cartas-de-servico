@@ -68,6 +68,24 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
                 </default>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Agendamento</titulo>
+            <descricao><![CDATA[Para o agendamento eletrônico é necessário ter realizado a solicitação de passaporte.
+A maneira mais fácil e rápida de efetuar o agendamento é clicando sobre o botão "Realizar Agendamento", disponível no Site / Portal do DPF no endereço http://www.dpf.gov.br , sob o título "Passaporte".]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao><![CDATA[[Agendamento](https://servicos.dpf.gov.br/sinpa/paginaInicialAgendamento.do)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/324"/>
     <segmentos-da-sociedade>
