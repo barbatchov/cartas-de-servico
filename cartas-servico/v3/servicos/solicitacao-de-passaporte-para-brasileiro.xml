@@ -13,7 +13,12 @@ Telefone (61) 3326-5420]]></contato>
     <solicitantes>
         <solicitante>
             <tipo>Brasileiro maior de 18 anos</tipo>
-            <requisitos><![CDATA[Deve ser brasileiro maior de idade.]]></requisitos>
+            <requisitos><![CDATA[I - ser brasileiro; 
+I - comprovar sua identidade e demais dados pessoais necessários ao cadastramento no banco de dados de requerentes de passaportes;              
+III - estar quite com a justiça eleitoral e o serviço militar obrigatório;                          
+IV - recolher a taxa ou emolumento devido;                          
+V - submeter-se à coleta de dados biométricos; e                          
+VI - não ser procurado pela Justiça nem impedido judicialmente de obter passaporte.]]></requisitos>
         </solicitante>
         <solicitante>
             <tipo>Brasileiro menores de 18 anos</tipo>
