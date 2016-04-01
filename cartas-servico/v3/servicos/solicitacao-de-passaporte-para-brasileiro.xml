@@ -15,6 +15,10 @@ Telefone (61) 3326-5420]]></contato>
             <tipo>Brasileiro maior de 18 anos</tipo>
             <requisitos/>
         </solicitante>
+        <solicitante>
+            <tipo>Brasileiro menores de 18 anos</tipo>
+            <requisitos><![CDATA[Quando se tratar de menor de 18 anos, será exigida autorização de ambos os genitores ou do responsável legal, Formulário de Autorização para Obtenção de Passaporte para Menor, salvo nos casos de cessação de incapacidade previstos em lei.]]></requisitos>
+        </solicitante>
     </solicitantes>
     <tempo-total-estimado>
         <ate max="2" unidade="meses"/>
