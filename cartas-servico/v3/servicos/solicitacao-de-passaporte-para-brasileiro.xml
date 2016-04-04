@@ -127,9 +127,17 @@ A maneira mais fácil e rápida de efetuar o agendamento é clicando sobre o bot
         </etapa>
         <etapa>
             <titulo>Comparecimento na Unidade de Polícia Federal</titulo>
-            <descricao/>
+            <descricao><![CDATA[Deverá comparecer na Unidade de Polícia Federal com os documentos solicitados no dia do agendamento.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Documento de Identidade</item>
+                    <item>Título de Eleitor e comprovantes de votação da última eleição</item>
+                    <item>Comprovante bancário de pagamento da Guia de Recolhimento da União</item>
+                    <item>CPF</item>
+                </default>
+                <caso descricao="Documento que comprove quitação com o serviço militar obrigatório">
+                    <item>para os requerentes do sexo masculino a partir de 01 de janeiro do ano em que completam 19 anos até 31 de dezembro do ano em que completam 45 anos.</item>
+                </caso>
             </documentos>
             <custos>
                 <default/>
