@@ -13,8 +13,8 @@ Telefone (61) 3326-5420]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
         <solicitante>
-            <tipo>Comum</tipo>
-            <requisitos><![CDATA[Ser brasileiro;]]></requisitos>
+            <tipo>Brasileiro</tipo>
+            <requisitos/>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
