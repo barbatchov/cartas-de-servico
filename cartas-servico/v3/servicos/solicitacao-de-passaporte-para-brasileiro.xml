@@ -13,19 +13,17 @@ Telefone (61) 3326-5420]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
         <solicitante>
-            <tipo>Brasileiro ou naturalizado maior de 18 anos</tipo>
-            <requisitos/>
+            <tipo>Brasileiro maior de 18 anos</tipo>
+            <requisitos><![CDATA[Pessoa nascida na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país ou nascida no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil, ou ainda, nascida no estrangeiro, de pai brasileiro ou mãe brasileira, desde que venha a residir na República Federativa do Brasil e opte, em qualquer tempo, pela nacionalidade brasileira. Veja Art. 12 da Constituição Federal.]]></requisitos>
         </solicitante>
         <solicitante>
             <tipo>Brasileiro menor de 18 anos</tipo>
-            <requisitos/>
+            <requisitos><![CDATA[Ser brasileiro nato ou naturalizado que ainda não tenha completado 18 anos de idade.]]></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
         <ate max="6" unidade="dias-uteis"/>
-        <descricao><![CDATA[Em alguns períodos do ano esse prazo pode variar:
-1. Excesso de procura;
-2. Aproximação do período de férias.]]></descricao>
+        <descricao><![CDATA[Em alguns períodos do ano esse prazo pode variar seja por excesso de procura e/ou aproximação de período de férias escolares.]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
@@ -36,9 +34,6 @@ Nas abas, os campos marcados com asterisco (\*) são sempre OBRIGATÓRIOS. Algun
 Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posicionando o cursor do mouse sobre o mesmo, fornece algumas informações adicionais sobre o preenchimento do campo, facilitando o entendimento.]]></descricao>
             <documentos>
                 <default/>
-                <caso descricao="Brasileiro menores de 18 anos">
-                    <item>Formulário de Autorização para Obtenção de Passaporte para Menor</item>
-                </caso>
             </documentos>
             <custos>
                 <default/>
@@ -68,7 +63,7 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao tipo="web-emitir">
+                    <canal-de-prestacao tipo="web">
                         <descricao><![CDATA[[Reemissão da GRU](https://servicos.dpf.gov.br/sinpa/reemissaoGRU.do?dispatcher=exibirConsulta)]]></descricao>
                     </canal-de-prestacao>
                 </default>
