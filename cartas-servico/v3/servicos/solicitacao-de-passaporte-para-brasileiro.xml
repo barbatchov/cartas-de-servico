@@ -4,8 +4,9 @@
     <sigla/>
     <nomes-populares>
         <item>Documento de identidade</item>
+        <item>Documento de Viagem</item>
     </nomes-populares>
-    <descricao><![CDATA[O Passaporte Brasileiro é o documento oficial,  emitido pelo Departamento de Polícia Federal (DPF) (ou pelas Embaixadas do Brasil no exterior),  que identifica o cidadão brasileiro perante as autoridades  de outros países,  permitindo  a  anotação  de  entrada  e saída pelos  portos, aeroportos e vias  de acesso internacionais. Permite também conter os vistos de autorização de entrada.]]></descricao>
+    <descricao><![CDATA[O Passaporte Brasileiro é o documento oficial,  emitido  pelo Departamento de Polícia Federal (DPF) (ou pelas Embaixadas do Brasil no exterior),  que identifica o cidadão brasileiro perante as autoridades  de outros países,  permitindo  a  anotação  de  entrada  e saída pelos  portos, aeroportos e vias  de acesso internacionais. Permite também conter os vistos de autorização de entrada.]]></descricao>
     <contato><![CDATA[Na Hora-Rodoviária - DF	
 Brasília	
 Telefone (61) 3326-5420]]></contato>
@@ -22,7 +23,9 @@ Telefone (61) 3326-5420]]></contato>
     </solicitantes>
     <tempo-total-estimado>
         <ate max="6" unidade="dias-uteis"/>
-        <descricao/>
+        <descricao><![CDATA[Em alguns períodos do ano esse prazo pode variar:
+1. Excesso de procura;
+2. Aproximação do período de férias.]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
