@@ -18,7 +18,7 @@ Telefone (61) 3326-5420]]></contato>
         </solicitante>
         <solicitante>
             <tipo>Brasileiro menor de 18 anos</tipo>
-            <requisitos><![CDATA[Ser brasileiro nato ou naturalizado que ainda não tenha completado 18 anos de idade.]]></requisitos>
+            <requisitos><![CDATA[Ser brasileiro que ainda não tenha completado 18 anos de idade.]]></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
@@ -55,7 +55,7 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
             <custos>
                 <default>
                     <custo>
-                        <descricao><![CDATA[Pagamento da GRU]]></descricao>
+                        <descricao><![CDATA[Pagamento da Guia]]></descricao>
                         <moeda/>
                         <valor>257,25</valor>
                     </custo>
@@ -64,7 +64,7 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="web">
-                        <descricao><![CDATA[[Reemissão da GRU](https://servicos.dpf.gov.br/sinpa/reemissaoGRU.do?dispatcher=exibirConsulta)]]></descricao>
+                        <descricao><![CDATA[A Guia de Pagamento será gerada automaticamente após o preenchimento da etapa 1, caso seja necessário reemissão acesse: [Reemissão da GRU](https://servicos.dpf.gov.br/sinpa/reemissaoGRU.do?dispatcher=exibirConsulta)]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
