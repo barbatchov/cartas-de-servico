@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Emissão de Passaporte Comum para Brasileiro</nome>
+    <nome><![CDATA[Emissão de Passaporte Comum para Brasileiro]]></nome>
     <sigla/>
     <nomes-populares>
         <item>Documento de Viagem</item>
@@ -112,7 +112,8 @@ A maneira mais fácil e rápida de efetuar o agendamento é clicando sobre o bot
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[Unidade de Polícia Federal]]></descricao>
+                        <descricao><![CDATA[Unidade de Polícia Federal da sua cidade conforme o agendamento prévio realizado na etapa anterior. 
+Deverá comparecer no local e horário especificado no agendamento.]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -123,9 +124,10 @@ A maneira mais fácil e rápida de efetuar o agendamento é clicando sobre o bot
         <item>Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
-        <item>Lazer</item>
-        <item>Cidadania</item>
-        <item>Policiamento</item>
+        <item>Turismo</item>
+        <item>Trabalho</item>
+        <item>Relações Internacionais</item>
+        <item>Relações Diplomáticas</item>
     </areas-de-interesse>
     <palavras-chave>
         <item>Passaporte</item>
