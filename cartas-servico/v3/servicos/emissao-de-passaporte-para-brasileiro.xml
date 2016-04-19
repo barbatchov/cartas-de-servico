@@ -24,7 +24,7 @@ Telefone (61) 3326-5420]]></contato>
     </solicitantes>
     <tempo-total-estimado>
         <ate max="6" unidade="dias-uteis"/>
-        <descricao><![CDATA[Em alguns períodos do ano esse prazo pode variar seja por excesso de procura e/ou aproximação de período de férias escolares.]]></descricao>
+        <descricao><![CDATA[Em alguns períodos do ano esse prazo pode variar por excesso na procura e/ou aproximação de período de férias escolares.]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
@@ -56,7 +56,7 @@ Alguns campos possuem um sinal de interrogação ao seu lado, o qual, em se posi
             <custos>
                 <default>
                     <custo>
-                        <descricao><![CDATA[Pagamento da Guia]]></descricao>
+                        <descricao><![CDATA[Pagamento da Taxa]]></descricao>
                         <moeda/>
                         <valor>257,25</valor>
                     </custo>
