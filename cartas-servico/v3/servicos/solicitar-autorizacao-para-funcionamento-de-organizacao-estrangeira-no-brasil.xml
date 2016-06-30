@@ -32,7 +32,13 @@
 - e-mail;
 - assinatura do representante legal da entidade.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>a) Estatuto registrado em cartório, no idioma de origem devidamente legalizado pelo consulado brasileiro e tradução juramentada.</item>
+                    <item>b) Certidão do serviço notarial e de registro no exterior, que comprove estar a organização constituída conforme a legislação do país de origem</item>
+                    <item>c) Ata de deliberação que autorizou o funcionamento da organização estrangeira no Brasil.</item>
+                    <item>d) ) Procuração que demonstre que a entidade possui representante permanente no Brasil, que este possui poderes expressos para resolver quaisquer questões,  receber citação judicial  e poderes especiais para atuar no Brasil</item>
+                    <item>e) documentação do representante legal da organização no Brasil (brasileiro) ou documentação de regularidade do estrangeiro em território brasileiro</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
