@@ -42,6 +42,9 @@
                     <item>g) Lista com qualificação completa (nome, nacionalidade, profissão e domicílio) dos diretores, administradores e representantes legais no exterior.</item>
                     <item>h) Relatório com indicação das fontes de recursos para a sua manutenção e dos respectivos bens a ela destinados</item>
                 </default>
+                <caso descricao="Representante legal estrangeiro">
+                    <item>Caso o representante da entidade seja estrangeiro, é necessária a apresentação da Cédula de Identidade de Estrangeiro, a fim de verificar o visto permanente, comprovando que está legalmente apto para o exercício das funções de representação.</item>
+                </caso>
             </documentos>
             <custos>
                 <default/>
