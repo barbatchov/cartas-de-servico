@@ -26,7 +26,24 @@
         <ate max="45" unidade="dias-corridos"/>
         <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Apresentar requerimento de qualificação</titulo>
+            <descricao><![CDATA[O cidadão deve apresentar requerimento, solicitando a qualificação como OSCIP, dirigido ao Ministério da Justiça e Cidadania , assinado pelo representante legal da entidade, com as seguintes informações:
+- Razão Social;
+- CNPJ;
+- e-mail.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
