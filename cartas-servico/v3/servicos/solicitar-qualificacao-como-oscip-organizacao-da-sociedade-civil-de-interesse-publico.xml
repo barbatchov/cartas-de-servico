@@ -78,8 +78,28 @@ CEP: 70.064-900]]></descricao>
         </etapa>
     </etapas>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
-    <segmentos-da-sociedade/>
-    <areas-de-interesse/>
-    <palavras-chave/>
+    <segmentos-da-sociedade>
+        <item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Cidadania</item>
+        <item>Educação</item>
+        <item>Meio ambiente</item>
+        <item>Preservação e Conservação Ambiental</item>
+        <item>Saúde</item>
+        <item>Proteção Social</item>
+        <item>Assistência à Criança e ao Adolescente</item>
+        <item>Assistência ao Portador de Deficiência</item>
+        <item>Assistência ao Idoso</item>
+        <item>Cultura</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>OSCIP</item>
+        <item>Entidades Sociais</item>
+        <item>Qualificação</item>
+        <item>Certidão de qualificação</item>
+        <item>Certificado de qualificação</item>
+        <item>Termo de parceria</item>
+    </palavras-chave>
     <legislacoes/>
 </servico>
