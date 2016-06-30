@@ -9,8 +9,14 @@
     </nomes-populares>
     <descricao><![CDATA[Autorização de funcionamento no território brasileiro de organizações civis estrangeiras, sem fins lucrativos, que tenham sido regularmente constituídas de acordo com a legislação do seu país de origem e que pretendam funcionar no Brasil.]]></descricao>
     <contato/>
-    <gratuito/>
-    <solicitantes/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Organização Estrangeira</tipo>
+            <requisitos><![CDATA[- entidade de direito privado, sem fins lucrativos;
+ - regularmente constituída de acordo com a legislação de seu país de origem.]]></requisitos>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
         <ate max="45" unidade="dias-corridos"/>
         <descricao/>
