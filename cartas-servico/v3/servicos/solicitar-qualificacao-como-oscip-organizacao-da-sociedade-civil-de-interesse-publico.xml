@@ -76,6 +76,19 @@ CEP: 70.064-900]]></descricao>
                 </default>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Alteração Cadastral</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
     <segmentos-da-sociedade>
