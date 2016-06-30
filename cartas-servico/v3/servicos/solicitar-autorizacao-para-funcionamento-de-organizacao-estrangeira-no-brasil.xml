@@ -8,7 +8,7 @@
         <item>Atualização cadastral de Organização Estrangeira</item>
     </nomes-populares>
     <descricao><![CDATA[Autorização de funcionamento no território brasileiro de organizações civis estrangeiras, sem fins lucrativos, que tenham sido regularmente constituídas de acordo com a legislação do seu país de origem e que pretendam funcionar no Brasil.]]></descricao>
-    <contato/>
+    <contato><![CDATA[sac.dejus@mj.gov.br]]></contato>
     <gratuito>true</gratuito>
     <solicitantes>
         <solicitante>
@@ -81,8 +81,10 @@ CEP: 70.064-900]]></descricao>
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
-    <segmentos-da-sociedade/>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+    <segmentos-da-sociedade>
+        <item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+    </segmentos-da-sociedade>
     <areas-de-interesse/>
     <palavras-chave/>
     <legislacoes/>
