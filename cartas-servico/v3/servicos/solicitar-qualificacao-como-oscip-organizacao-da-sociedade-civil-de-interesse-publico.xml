@@ -101,5 +101,10 @@ CEP: 70.064-900]]></descricao>
         <item>Certificado de qualificação</item>
         <item>Termo de parceria</item>
     </palavras-chave>
-    <legislacoes/>
+    <legislacoes>
+        <item><![CDATA[A legislação relacionada a este serviço é a seguinte:
+- [Lei nº 9.790/99](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1999-03-23;9790);
+-[ Decreto nº 3.100/99](http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1999-06-30;3100);
+- Portaria do Ministério da Justiça nº 362/2016 (http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/03/2016&jornal=1&pagina=16&totalArquivos=120).]]></item>
+    </legislacoes>
 </servico>
