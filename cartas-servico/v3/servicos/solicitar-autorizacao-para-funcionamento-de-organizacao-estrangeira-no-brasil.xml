@@ -12,6 +12,7 @@
     <gratuito/>
     <solicitantes/>
     <tempo-total-estimado>
+        <ate max="45" unidade="dias-corridos"/>
         <descricao/>
     </tempo-total-estimado>
     <etapas/>
