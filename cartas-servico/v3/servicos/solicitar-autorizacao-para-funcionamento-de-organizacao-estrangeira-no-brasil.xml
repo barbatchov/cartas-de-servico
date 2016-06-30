@@ -15,7 +15,8 @@
             <tipo>Organização Estrangeira</tipo>
             <requisitos><![CDATA[- entidade de direito privado, sem fins lucrativos;
 - regularmente constituída de acordo com a legislação de seu país de origem;
-- as atividades desenvolvidas pela organização devem estar voltadas ao interesse público.]]></requisitos>
+- as atividades desenvolvidas pela organização devem estar voltadas ao interesse público;
+- a sede da organização estrangeira deve estar localizada no exterior.]]></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
