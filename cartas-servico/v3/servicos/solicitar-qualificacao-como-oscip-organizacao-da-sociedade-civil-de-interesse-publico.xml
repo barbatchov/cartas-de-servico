@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
     <nome><![CDATA[Solicitar qualificação como OSCIP - Organização da Sociedade Civil de Interesse Público]]></nome>
-    <sigla/>
-    <nomes-populares/>
+    <sigla>OSCIP</sigla>
+    <nomes-populares>
+        <item>Certidão de qualificação</item>
+        <item>Certificado de OSCIP</item>
+        <item>Certificado para termo de parceria</item>
+        <item>Manutenção da qualificação</item>
+    </nomes-populares>
     <descricao/>
     <contato/>
     <gratuito/>
