@@ -85,7 +85,25 @@ CEP: 70.064-900]]></descricao>
     <segmentos-da-sociedade>
         <item>Demais segmentos (ONGs, organizações sociais, etc)</item>
     </segmentos-da-sociedade>
-    <areas-de-interesse/>
-    <palavras-chave/>
-    <legislacoes/>
+    <areas-de-interesse>
+        <item>Difusão Cultural</item>
+        <item>Assistência à Criança e ao Adolescente</item>
+        <item>Cultura</item>
+        <item>Biodiversidade</item>
+        <item>Clima</item>
+        <item>Meio ambiente</item>
+        <item>Proteção Social</item>
+        <item>Saneamento</item>
+        <item>Saúde</item>
+        <item>Educação</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>ONG estrangeira</item>
+        <item>Autorização de organização estrangeira</item>
+        <item>Funcionamento de organização estrangeira no Brasil</item>
+    </palavras-chave>
+    <legislacoes>
+        <item><![CDATA[- [Decreto nº 3.441/2000](http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2000-04-26;3441);
+- Portaria MJ nº 362/2016 (http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/03/2016&jornal=1&pagina=16&totalArquivos=120).]]></item>
+    </legislacoes>
 </servico>
