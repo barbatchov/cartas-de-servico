@@ -23,7 +23,25 @@
         <ate max="45" unidade="dias-corridos"/>
         <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Apresentar requerimento</titulo>
+            <descricao><![CDATA[O requerimento deve ser feito pela organização estrangeira, dirigido à Secretaria Nacional de Justiça e Cidadania, dispensa advogado e deve conter:
+- Razão Social da organização;
+- endereço do representante legal no Brasil;
+- e-mail;
+- assinatura do representante legal da entidade.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
