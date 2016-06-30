@@ -46,6 +46,12 @@ Obs.: Os documentos deverão ser autenticados em conformidade com a lei nacional
                 <caso descricao="Representante legal estrangeiro">
                     <item>Caso o representante da entidade seja estrangeiro, é necessária a apresentação da Cédula de Identidade de Estrangeiro, a fim de verificar o visto permanente, comprovando que está legalmente apto para o exercício das funções de representação.</item>
                 </caso>
+                <caso descricao="Adoção internacional">
+                    <item>A organização estrangeira de interesse coletivo que pretenda atuar no país em processos de adoção internacional deverá:</item>
+                    <item>I - cadastrar-se no Departamento de Polícia Federal, conforme regulamentação vigente;</item>
+                    <item>II - credenciar-se a Secretaria Especial de Direitos Humanos do Ministério da Justiça e Cidadania, nos termos do disposto no art. 18 do Decreto nº 5.491/2005 e art. 1º, inciso VII, do Anexo I, do Decreto nº 8.162/2013.</item>
+                    <item>Obs.: Não será autorizada a funcionar no Brasil a organização estrangeira cujo país de origem não tenha ratificado a Convenção Relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção Internacional.</item>
+                </caso>
             </documentos>
             <custos>
                 <default/>
