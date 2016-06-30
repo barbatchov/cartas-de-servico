@@ -2,7 +2,11 @@
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
     <nome><![CDATA[Solicitar autorização para funcionamento de Organização Estrangeira no Brasil]]></nome>
     <sigla>OE</sigla>
-    <nomes-populares/>
+    <nomes-populares>
+        <item>ONG estrangeira</item>
+        <item>Autorização de organização estrangeira sem fins lucrativos</item>
+        <item>Atualização cadastral de Organização Estrangeira</item>
+    </nomes-populares>
     <descricao/>
     <contato/>
     <gratuito/>
