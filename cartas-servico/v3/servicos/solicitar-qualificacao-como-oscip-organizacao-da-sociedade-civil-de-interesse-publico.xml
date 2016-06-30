@@ -64,6 +64,15 @@ Esplanada dos Ministérios, Brasília – DF
 
 CEP: 70.064-900]]></descricao>
                     </canal-de-prestacao>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Protocolo-Geral do Ministério da Justiça
+
+Ministério da Justiça, Bloco T, Anexo II
+
+Esplanada dos Ministérios, Brasília – DF
+
+CEP: 70.064-900]]></descricao>
+                    </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
