@@ -93,6 +93,10 @@ CEP: 70.064-900]]></descricao>
                 <caso descricao="Em caso de alteração de finalidade ou no estatuto social, enviar junto ao requerimento:">
                     <item>Cópia autenticada do estatuto social.</item>
                 </caso>
+                <caso descricao="Em caso de celebração de termo de parceria:">
+                    <item>Requerimento solicitando a certidão de qualificação; e</item>
+                    <item>Declaração da entidade de que mantém seu cadastro atualizado, relativamente ao seu endereço de sede, razão social e alterações estatutárias; ou</item>
+                </caso>
             </documentos>
             <custos>
                 <default/>
