@@ -98,7 +98,11 @@ CEP: 70.064-900]]></descricao>
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao><![CDATA[http://protocoloeletronico.mj.gov.br/protocolo_eletronico/pages/externo/login_externo.jsf]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
