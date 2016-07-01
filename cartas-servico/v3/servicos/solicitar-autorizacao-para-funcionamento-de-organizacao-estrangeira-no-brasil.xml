@@ -64,24 +64,24 @@ b) Para requerer a autorização, não há necessidade de intermediação por ad
                         <descricao><![CDATA[http://protocoloeletronico.mj.gov.br/protocolo_eletronico/pages/externo/login_externo.jsf]]></descricao>
                     </canal-de-prestacao>
                     <canal-de-prestacao tipo="postal">
-                        <descricao><![CDATA[Secretaria Nacional de Justiça e Cidadania
+                        <descricao><![CDATA[Secretaria Nacional de Justiça e Cidadania,
 
-Departamento de Políticas de Justiça
+Departamento de Políticas de Justiça,
 
-Divisão de Credenciamento 
+Divisão de Credenciamento, 
 
-Ministério da Justiça, Bloco T, Anexo II
+Ministério da Justiça, Bloco T, Anexo II,
 
-Esplanada dos Ministérios, Brasília – DF
+Esplanada dos Ministérios, Brasília – DF,
 
 CEP: 70.064-900]]></descricao>
                     </canal-de-prestacao>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[Protocolo-Geral do Ministério da Justiça
+                        <descricao><![CDATA[Protocolo-Geral do Ministério da Justiça,
 
-Ministério da Justiça, Bloco T, Anexo II
+Ministério da Justiça, Bloco T, Anexo II,
 
-Esplanada dos Ministérios, Brasília – DF
+Esplanada dos Ministérios, Brasília – DF,
 
 CEP: 70.064-900]]></descricao>
                     </canal-de-prestacao>
