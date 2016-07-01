@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Solicitar qualificação como Organização da Sociedade Civil de Interesse Público</nome>
+    <nome><![CDATA[Solicitar qualificação como Organização da Sociedade Civil de Interesse Público]]></nome>
     <sigla>OSCIP</sigla>
     <nomes-populares>
         <item>Certidão de qualificação</item>
@@ -35,7 +35,9 @@ A certificação de OSCIP não é necessária para firmar Termo de Colaboração
 
 - Razão Social;
 - CNPJ;
-- e-mail.]]></descricao>
+- e-mail.
+
+Obs: Para requerer a qualificação, não há necessidade de intermediação por advogado, contador, etc.]]></descricao>
             <documentos>
                 <default>
                     <item>a) ata de eleição de sua atual diretoria, autenticada e registrada em cartório;</item>
