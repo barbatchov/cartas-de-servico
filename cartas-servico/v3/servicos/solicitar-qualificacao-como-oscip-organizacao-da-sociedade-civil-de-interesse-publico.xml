@@ -144,6 +144,11 @@ CEP: 70.064-900]]></descricao>
                     <item>Declaração da entidade que recebeu os recursos/ patrimônio líquido, confirmando a transferência; ou</item>
                     <item>Declaração afirmando que não possui patrimônio líquido a ser transferido, sob as penas da lei.</item>
                 </caso>
+                <caso descricao="Dissolução da entidade">
+                    <item>Declaração informando que o respectivo patrimônio líquido foi transferido a outra pessoa jurídica qualificada como OSCIP Federal; e</item>
+                    <item>Declaração da entidade que recebeu os recursos/ patrimônio líquido, confirmando a transferência; ou</item>
+                    <item>Declaração afirmando que não possui patrimônio líquido a ser transferido, sob as penas da lei.</item>
+                </caso>
             </documentos>
             <custos>
                 <default/>
