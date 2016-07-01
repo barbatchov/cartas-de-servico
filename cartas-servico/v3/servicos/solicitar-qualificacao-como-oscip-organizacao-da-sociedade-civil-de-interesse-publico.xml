@@ -136,7 +136,7 @@ CEP: 70.064-900]]></descricao>
                     <item>Cópia autenticada da ata de eleição da atual diretoria;</item>
                     <item>Declaração quanto ao recebimento de recursos públicos.</item>
                 </default>
-                <caso descricao="Em caso negativo, deve enviar declaração da entidade informando que não recebeu recursos de natureza pública, durante o período em que esteve qualificada como OSCIP."/>
+                <caso descricao="Em caso negativo, enviar declaração da entidade informando que não recebeu recursos públicos, durante o período em que esteve qualificada."/>
             </documentos>
             <custos>
                 <default/>
