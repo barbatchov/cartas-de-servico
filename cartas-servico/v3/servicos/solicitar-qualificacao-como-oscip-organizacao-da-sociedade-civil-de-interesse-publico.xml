@@ -90,6 +90,9 @@ CEP: 70.064-900]]></descricao>
                     <item>Cartão de CNPJ atualizado ou</item>
                     <item>Cópia autenticada da ata da assembleia que realizou a modificação.</item>
                 </caso>
+                <caso descricao="Alteração de finalidade ou no estatuto social.">
+                    <item>Cópia autenticada do estatuto social.</item>
+                </caso>
             </documentos>
             <custos>
                 <default/>
