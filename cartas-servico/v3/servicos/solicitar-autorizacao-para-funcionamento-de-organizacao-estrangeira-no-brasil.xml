@@ -26,12 +26,13 @@
     <etapas>
         <etapa>
             <titulo>Apresentar requerimento</titulo>
-            <descricao><![CDATA[O requerimento deve ser feito pela organização estrangeira, dirigido à Secretaria Nacional de Justiça e Cidadania, dispensa advogado e deve conter:
+            <descricao><![CDATA[O requerimento deve ser feito pela organização estrangeira, dirigido à Secretaria Nacional de Justiça e Cidadania e deve conter:
 - Razão Social da organização;
 - endereço do representante legal no Brasil;
 - e-mail;
 - assinatura do representante legal da entidade.
-Obs.: Os documentos deverão ser autenticados em conformidade com a lei nacional da organização requerente, legalizados no consulado brasileiro da respectiva sede e acompanhados de tradução juramentada no Brasil.]]></descricao>
+Obs: a) Os documentos deverão ser autenticados em conformidade com a lei nacional da organização requerente, legalizados no consulado brasileiro da respectiva sede e acompanhados de tradução juramentada no Brasil.
+b) Para requerer a autorização, não há necessidade de intermediação por advogado, contador, etc.]]></descricao>
             <documentos>
                 <default>
                     <item>a) Estatuto registrado em cartório, no idioma de origem devidamente legalizado pelo consulado brasileiro e tradução juramentada.</item>
