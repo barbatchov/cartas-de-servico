@@ -86,11 +86,11 @@ CEP: 70.064-900]]></descricao>
                 <default>
                     <item>Requerimento solicitando a alteração cadastral, conforme cada caso, contendo também a identificação da entidade social (razão social e CNPJ), com e-mail válido para contato e deve ser assinado pelo representante legal.</item>
                 </default>
-                <caso descricao="Alteração de endereço de sede ou da razão social">
+                <caso descricao="Em caso de alteração de endereço de sede ou da razão social enviar junto ao requerimento:">
                     <item>Cartão de CNPJ atualizado ou</item>
                     <item>Cópia autenticada da ata da assembleia que realizou a modificação.</item>
                 </caso>
-                <caso descricao="Alteração de finalidade ou no estatuto social.">
+                <caso descricao="Em caso de alteração de finalidade ou no estatuto social, enviar junto ao requerimento:">
                     <item>Cópia autenticada do estatuto social.</item>
                 </caso>
             </documentos>
