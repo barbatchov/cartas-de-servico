@@ -81,7 +81,7 @@ CEP: 70.064-900]]></descricao>
         </etapa>
         <etapa>
             <titulo>Alteração Cadastral</titulo>
-            <descricao/>
+            <descricao><![CDATA[A Oscip deve manter os seus dados atualizados  perante o Ministério da Justiça e Cidadania, relativamente ao seu endereço de sede, razão social e alterações estatutárias que impliquem mudança do seu regime de funcionamento, sob pena de cancelamento de sua qualificação.]]></descricao>
             <documentos>
                 <default/>
             </documentos>
