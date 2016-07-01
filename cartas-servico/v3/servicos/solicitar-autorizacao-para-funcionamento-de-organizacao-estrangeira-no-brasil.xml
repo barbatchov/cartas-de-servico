@@ -36,14 +36,14 @@ Obs: a) Os documentos deverão ser autenticados em conformidade com a lei nacion
 b) Para requerer a autorização, não há necessidade de intermediação por advogado, contador, etc.]]></descricao>
             <documentos>
                 <default>
-                    <item>a) Estatuto registrado em cartório, no idioma de origem devidamente legalizado pelo consulado brasileiro e tradução juramentada.</item>
-                    <item>b) Certidão do serviço notarial e de registro no exterior, que comprove estar a organização constituída conforme a legislação do país de origem</item>
-                    <item>c) Ata de deliberação que autorizou o funcionamento da organização estrangeira no Brasil.</item>
-                    <item>d)  Procuração que demonstre que a entidade possui representante permanente no Brasil, que este possui poderes expressos para resolver quaisquer questões,  receber citação judicial  e poderes especiais para atuar no Brasil</item>
-                    <item>e) Documentação do representante legal da organização no Brasil (brasileiro) ou documentação de regularidade do estrangeiro em território brasileiro</item>
-                    <item>f) Relatório com descrição das atividades que pretende desenvolver e o local em que atuará no território brasileiro, com especificação qualitativa das finalidades</item>
-                    <item>g) Lista com qualificação completa (nome, nacionalidade, profissão e domicílio) dos diretores, administradores e representantes legais no exterior.</item>
-                    <item>h) Relatório com indicação das fontes de recursos para a sua manutenção e dos respectivos bens a ela destinados</item>
+                    <item>a) Estatuto registrado em cartório, no idioma de origem devidamente legalizado pelo consulado brasileiro e tradução juramentada;</item>
+                    <item>b) Certidão do serviço notarial e de registro no exterior, que comprove estar a organização constituída conforme a legislação do país de origem;</item>
+                    <item>c) Ata de deliberação que autorizou o funcionamento da organização estrangeira no Brasil;</item>
+                    <item>d)  Procuração que demonstre que a entidade possui representante permanente no Brasil, que este possui poderes expressos para resolver quaisquer questões,  receber citação judicial  e poderes especiais para atuar no Brasil;</item>
+                    <item>e) Documentação do representante legal da organização no Brasil (brasileiro) ou documentação de regularidade do estrangeiro em território brasileiro;</item>
+                    <item>f) Relatório com descrição das atividades que pretende desenvolver e o local em que atuará no território brasileiro, com especificação qualitativa das finalidades;</item>
+                    <item>g) Lista com qualificação completa (nome, nacionalidade, profissão e domicílio) dos diretores, administradores e representantes legais no exterior.;</item>
+                    <item>h) Relatório com indicação das fontes de recursos para a sua manutenção e dos respectivos bens a ela destinados.</item>
                 </default>
                 <caso descricao="Representante legal estrangeiro">
                     <item>Caso o representante da entidade seja estrangeiro, é necessária a apresentação da Cédula de Identidade de Estrangeiro, a fim de verificar o visto permanente, comprovando que está legalmente apto para o exercício das funções de representação.</item>
@@ -52,7 +52,7 @@ b) Para requerer a autorização, não há necessidade de intermediação por ad
                     <item>A organização estrangeira de interesse coletivo que pretenda atuar no país em processos de adoção internacional deverá:</item>
                     <item>I - cadastrar-se no Departamento de Polícia Federal, conforme regulamentação vigente;</item>
                     <item>II - credenciar-se a Secretaria Especial de Direitos Humanos do Ministério da Justiça e Cidadania, nos termos do disposto no art. 18 do Decreto nº 5.491/2005 e art. 1º, inciso VII, do Anexo I, do Decreto nº 8.162/2013.</item>
-                    <item>Obs.: Não será autorizada a funcionar no Brasil a organização estrangeira cujo país de origem não tenha ratificado a Convenção Relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção Internacional.</item>
+                    <item>Obs: Não será autorizada a funcionar no Brasil a organização estrangeira cujo país de origem não tenha ratificado a Convenção Relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção Internacional.</item>
                 </caso>
             </documentos>
             <custos>
