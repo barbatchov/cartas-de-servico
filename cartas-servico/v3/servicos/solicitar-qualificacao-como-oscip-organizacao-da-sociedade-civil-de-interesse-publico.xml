@@ -10,7 +10,9 @@
         <item>Cancelamento da qualificação</item>
         <item>Atualização cadastral de OSCIP</item>
     </nomes-populares>
-    <descricao><![CDATA[Certificação de pessoas jurídicas de direito privado, sem fins lucrativos, que tenham sido constituídas e se encontrem em funcionamento regular há, no mínimo 3 (três) anos, na forma da [Lei nº 9.790/99](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1999-03-23;9790), a fim de habilitá-las para firmar termo de parceria com o Poder Público.]]></descricao>
+    <descricao><![CDATA[Certificação de pessoas jurídicas de direito privado, sem fins lucrativos, que tenham sido constituídas e se encontrem em funcionamento regular há, no mínimo 3 (três) anos, na forma da [Lei nº 9.790/99](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1999-03-23;9790), a fim de habilitá-las para firmar termo de parceria com o Poder Público.
+
+A certificação de OSCIP não é necessária para firmar Termo de Colaboração e Termo de Fomento, previstos na [Lei nº 13.019/2014](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2014-07-31;13019).]]></descricao>
     <contato><![CDATA[sac.dejus@mj.gov.br]]></contato>
     <gratuito>true</gratuito>
     <solicitantes>
