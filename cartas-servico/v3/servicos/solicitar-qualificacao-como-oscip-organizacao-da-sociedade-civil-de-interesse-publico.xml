@@ -131,7 +131,11 @@ CEP: 70.064-900]]></descricao>
             <titulo>Cancelamento da qualificação como OSCIP, a pedido.</titulo>
             <descricao><![CDATA[As OSCIPs podem solicitar o cancelamento de sua qualificação.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Requerimento solicitando o cancelamento da sua qualificação,  contendo também a identificação da entidade social (razão social e CNPJ), com e-mail válido para contato e deve ser assinado pelo representante legal.</item>
+                    <item>Cópia autenticada da ata de eleição da atual diretoria;</item>
+                    <item>Declaração quanto ao recebimento de recursos públicos.</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
