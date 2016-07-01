@@ -86,6 +86,10 @@ CEP: 70.064-900]]></descricao>
                 <default>
                     <item>Requerimento solicitando a alteração cadastral, conforme cada caso.</item>
                 </default>
+                <caso descricao="Alteração de endereço de sede ou da razão social">
+                    <item>Cartão de CNPJ atualizado ou</item>
+                    <item>Cópia autenticada da ata da assembleia que realizou a modificação.</item>
+                </caso>
             </documentos>
             <custos>
                 <default/>
