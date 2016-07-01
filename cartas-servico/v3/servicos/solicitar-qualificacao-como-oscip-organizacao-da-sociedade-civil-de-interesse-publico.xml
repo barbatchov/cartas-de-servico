@@ -139,9 +139,9 @@ CEP: 70.064-900]]></descricao>
                 <caso descricao="Em caso negativo, enviar declaração da entidade informando o não recebimento de recursos públicos durante o período em que esteve qualificada.">
                     <item>Em caso positivo, enviar declaração informando que atendeu ao previsto no art. 4º, inciso V, da Lei 9.790/99, bem como a declaração da entidade que recebeu a transferência.</item>
                 </caso>
-                <caso descricao="Dissolução da entidade">
-                    <item>Declaração informando que o respectivo patrimônio líquido foi transferido a outra pessoa jurídica qualificada como OSCIP Federal; e</item>
-                    <item>Declaração da entidade que recebeu os recursos/ patrimônio líquido, confirmando a transferência; ou</item>
+                <caso descricao="No caso de ter recebido recursos públicos:">
+                    <item>Declaração da entidade informando a transferência do respectivo acervo patrimonial à outra entidade qualificada como OSCIP federal;</item>
+                    <item>Declaração da entidade que recebeu a transferência.</item>
                     <item>Declaração afirmando que não possui patrimônio líquido a ser transferido, sob as penas da lei.</item>
                 </caso>
                 <caso descricao="Dissolução da entidade">
