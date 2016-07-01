@@ -84,7 +84,7 @@ CEP: 70.064-900]]></descricao>
             <descricao><![CDATA[A Oscip deve manter os seus dados cadastrais atualizados  perante o Ministério da Justiça e Cidadania, relativamente ao seu endereço de sede, razão social e alterações estatutárias que impliquem mudança do seu regime de funcionamento, sob pena de cancelamento de sua qualificação.]]></descricao>
             <documentos>
                 <default>
-                    <item>Requerimento solicitando a alteração cadastral, conforme cada caso.</item>
+                    <item>Requerimento solicitando a alteração cadastral, conforme cada caso, contendo também a identificação da entidade social (razão social e CNPJ), com e-mail válido para contato e deve ser assinado pelo representante legal.</item>
                 </default>
                 <caso descricao="Alteração de endereço de sede ou da razão social">
                     <item>Cartão de CNPJ atualizado ou</item>
