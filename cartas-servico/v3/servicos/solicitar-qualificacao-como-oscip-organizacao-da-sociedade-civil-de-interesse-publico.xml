@@ -127,6 +127,19 @@ CEP: 70.064-900]]></descricao>
                 </default>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Cancelamento da qualificação como OSCIP, a pedido.</titulo>
+            <descricao><![CDATA[As OSCIPs podem solicitar o cancelamento de sua qualificação.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
     <segmentos-da-sociedade>
