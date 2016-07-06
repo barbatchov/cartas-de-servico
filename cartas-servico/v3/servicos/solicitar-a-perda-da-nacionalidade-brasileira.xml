@@ -36,7 +36,10 @@ Só é possível perder a nacionalidade brasileira caso a pessoa já tenha adqui
 Obs1: Importante indicar, quando houver, e-mail para contato.
 Obs2: O serviço dispensa o auxílio de advogado.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Cópia da certidão de nascimento;</item>
+                    <item>Cópia do certificado de naturalização, legalizado junto às autoridades consulares brasileiras no exterior e traduzido oficialmente.</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
