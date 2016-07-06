@@ -71,6 +71,13 @@ Esplanada dos Ministérios, Bloco T, anexo II, sala T3, Brasília - DF, CEP: 70.
     <areas-de-interesse>
         <item>Cidadania</item>
     </areas-de-interesse>
-    <palavras-chave/>
-    <legislacoes/>
+    <palavras-chave>
+        <item>perda de nacionalidade</item>
+        <item>perda</item>
+        <item>nacionalidade</item>
+    </palavras-chave>
+    <legislacoes>
+        <item><![CDATA[[Lei 818/49](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1949-09-18;818)
+[Lei 6.815/80](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1980-08-19;6815)]]></item>
+    </legislacoes>
 </servico>
