@@ -40,6 +40,9 @@ Obs2: O serviço dispensa o auxílio de advogado.]]></descricao>
                     <item>Cópia da certidão de nascimento;</item>
                     <item>Cópia do certificado de naturalização, legalizado junto às autoridades consulares brasileiras no exterior e traduzido oficialmente.</item>
                 </default>
+                <caso descricao="No caso de brasileiro naturalizado">
+                    <item>Certificado de naturalização</item>
+                </caso>
             </documentos>
             <custos>
                 <default/>
