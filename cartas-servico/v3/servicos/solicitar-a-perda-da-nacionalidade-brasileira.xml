@@ -7,12 +7,14 @@
         <item>perda de nacionalidade de brasileiro nato</item>
         <item>perda de nacionalidade de brasileiro naturalizado</item>
     </nomes-populares>
-    <descricao/>
+    <descricao><![CDATA[É o ato pelo qual uma pessoa perde voluntariamente a sua nacionalidade brasileira.
+Só é possível perder a nacionalidade brasileira caso a pessoa já tenha adquirido outra nacionalidade.]]></descricao>
     <contato/>
     <gratuito/>
     <solicitantes/>
     <tempo-total-estimado>
-        <descricao/>
+        <entre max="45" min="30" unidade="dias-corridos"/>
+        <descricao><![CDATA[O prazo pode ser maior, caso seja necessário complementar a documentação.]]></descricao>
     </tempo-total-estimado>
     <etapas/>
     <orgao id=""/>
