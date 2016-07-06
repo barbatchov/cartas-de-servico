@@ -9,7 +9,7 @@
     </nomes-populares>
     <descricao><![CDATA[É o ato pelo qual uma pessoa perde voluntariamente a sua nacionalidade brasileira.
 Só é possível perder a nacionalidade brasileira caso a pessoa já tenha adquirido outra nacionalidade.]]></descricao>
-    <contato/>
+    <contato><![CDATA[processos.migracoes@mj.gov.br]]></contato>
     <gratuito>true</gratuito>
     <solicitantes>
         <solicitante>
@@ -64,7 +64,7 @@ Esplanada dos Ministérios, Bloco T, anexo II, sala T3, Brasília - DF, CEP: 70.
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
     <palavras-chave/>
