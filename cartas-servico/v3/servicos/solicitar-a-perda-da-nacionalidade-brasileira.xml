@@ -25,7 +25,27 @@ Só é possível perder a nacionalidade brasileira caso a pessoa já tenha adqui
         <entre max="45" min="30" unidade="dias-corridos"/>
         <descricao><![CDATA[O prazo pode ser maior caso seja necessário complementar a documentação.]]></descricao>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Apresentar requerimento.</titulo>
+            <descricao><![CDATA[O requerimento solicitando a perda da nacionalidade deve conter:
+- O nome completo do requerente;
+- A nacionalidade adquirida;
+- Endereço atualizado;
+- Assinatura;
+Obs1: Importante indicar, quando houver, e-mail para contato.
+Obs2: O serviço dispensa o auxílio de advogado.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
