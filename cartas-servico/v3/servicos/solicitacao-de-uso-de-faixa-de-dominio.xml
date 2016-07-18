@@ -5,7 +5,7 @@
     <nomes-populares>
         <item>Faixa de domínio</item>
     </nomes-populares>
-    <descricao><![CDATA[É a concessão dada a pessoa jurídica que queira explorar as faixas laterais e áreas adjacentes às estradas e rodovias. A “Faixa de Domínio” é a base física sobre a qual se assenta uma rodovia, área esta cujo uso obedecerá às condições de segurança do trânsito estabelecidas pelo DNIT.]]></descricao>
+    <descricao><![CDATA[É a concessão dada a pessoa jurídica que queira explorar as faixas laterais e áreas adjacentes às estradas e rodovias. A faixa de domínio é a base física sobre a qual se assenta uma rodovia, área esta cujo uso obedecerá às condições de segurança do trânsito estabelecidas pelo DNIT.]]></descricao>
     <contato/>
     <gratuito>false</gratuito>
     <solicitantes>
@@ -23,11 +23,17 @@
             <descricao><![CDATA[O solicitante deve informar o motivo da solicitação de uso da faixa de domínio, apresentar a documentação exigida e aguardar a aprovação ou não para que se assine contrato de permissão especial de uso da área.]]></descricao>
             <documentos>
                 <default>
-                    <item>Especificados no normativo presente no seguinte [link](http://www.dnit.gov.br/rodovias/operacoes-rodoviarias/faixa-de-dominio/manual-procedimentos-faixa-de-dominio-atualizacao-cap12-dir-colegiada-26012015-site-fxd.pdf)</item>
+                    <item>Especificados no normativo presente no seguinte link: http://www.dnit.gov.br/rodovias/operacoes-rodoviarias/faixa-de-dominio/manual-procedimentos-faixa-de-dominio-atualizacao-cap12-dir-colegiada-26012015-site-fxd.pdf</item>
                 </default>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[O valor será calculado em função da Unidade da Federação, tamanho, valor do m² e custo de manutenção da área solicitada]]></descricao>
+                        <moeda/>
+                        <valor/>
+                    </custo>
+                </default>
             </custos>
             <canais-de-prestacao>
                 <default/>
