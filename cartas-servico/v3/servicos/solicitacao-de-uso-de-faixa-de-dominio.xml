@@ -20,10 +20,10 @@
     <etapas>
         <etapa>
             <titulo/>
-            <descricao><![CDATA[O solicitante deve informar o motivo da solicitação de uso da faixa de domínio, apresentar a documentação exigida e aguardar a aprovação ou não para que se assine contrato de permissão especial de uso.]]></descricao>
+            <descricao><![CDATA[O solicitante deve informar o motivo da solicitação de uso da faixa de domínio, apresentar a documentação exigida e aguardar a aprovação ou não para que se assine contrato de permissão especial de uso da área.]]></descricao>
             <documentos>
                 <default>
-                    <item>[Normativo do DNIT](http://www.dnit.gov.br/rodovias/operacoes-rodoviarias/faixa-de-dominio/manual-procedimentos-faixa-de-dominio-atualizacao-cap12-dir-colegiada-26012015-site-fxd.pdf) especifica a listagem de documento exigidos.</item>
+                    <item>Especificados no normativo presente no seguinte [link](http://www.dnit.gov.br/rodovias/operacoes-rodoviarias/faixa-de-dominio/manual-procedimentos-faixa-de-dominio-atualizacao-cap12-dir-colegiada-26012015-site-fxd.pdf)</item>
                 </default>
             </documentos>
             <custos>
