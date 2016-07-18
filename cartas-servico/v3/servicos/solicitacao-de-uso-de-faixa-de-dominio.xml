@@ -7,12 +7,33 @@
     </nomes-populares>
     <descricao><![CDATA[É a concessão dada a pessoa jurídica que queira explorar as faixas laterais e áreas adjacentes às estradas e rodovias. A “Faixa de Domínio” é a base física sobre a qual se assenta uma rodovia, área esta que obedecerá às condições de segurança do trânsito estabelecidas pelo DNIT.]]></descricao>
     <contato/>
-    <gratuito/>
-    <solicitantes/>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Pessoa Física ou Jurídica</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
         <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo/>
+            <descricao><![CDATA[O solicitante deve informar o motivo da solicitação de uso da faixa de domínio, apresentar a documentação exigida e aguardar a aprovação ou não para que se assine contrato de permissão especial de uso.]]></descricao>
+            <documentos>
+                <default>
+                    <item>[Normativo do DNIT](http://www.dnit.gov.br/rodovias/operacoes-rodoviarias/faixa-de-dominio/manual-procedimentos-faixa-de-dominio-atualizacao-cap12-dir-colegiada-26012015-site-fxd.pdf) especifica a listagem de documento exigidos.</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
