@@ -10,7 +10,8 @@
     <gratuito/>
     <solicitantes/>
     <tempo-total-estimado>
-        <descricao/>
+        <entre max="12" min="6" unidade="meses"/>
+        <descricao><![CDATA[A previsão do tempo de conclusão depende também de que o solicitante apresente todos os documentos necessários.]]></descricao>
     </tempo-total-estimado>
     <etapas/>
     <orgao id=""/>
