@@ -168,15 +168,15 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao tipo="web">
-                        <descricao><![CDATA[SEI ????]]></descricao>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao/>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Apresentar recurso, se o pedido de naturalização for indeferido.</titulo>
-            <descricao><![CDATA[No prazo de 30 (trinta) dias contados da publicação da decisão que indeferir o pedido de naturalização, o requerente poderá apresentar um pedido de reconsideração, solicitando o desarquivamento do processo e apresentando documentos que demonstrem a alteração de uma situação anterior (como, por exemplo, o cumprimento do prazo legal para obter a naturalização) ou apresentar documentos que complementem o processo.]]></descricao>
+            <titulo>Apresentar recurso, se o pedido de reconsideração for indeferido.</titulo>
+            <descricao><![CDATA[No prazo de 30 (trinta) dias contados da publicação da decisão que indeferir o pedido de reconsideração, o requerente poderá apresentar recurso.]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -185,6 +185,25 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             </custos>
             <canais-de-prestacao>
                 <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo/>
+            <descricao/>
+            <documentos>
+                <default>
+                    <item>???</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="">
+                        <descricao><![CDATA[?????]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
