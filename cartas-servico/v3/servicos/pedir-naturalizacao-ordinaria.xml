@@ -28,7 +28,22 @@
         <entre max="12" min="6" unidade="meses"/>
         <descricao><![CDATA[A previsão do tempo de conclusão depende também de que o solicitante apresente todos os documentos necessários.]]></descricao>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Apresentar Requerimento</titulo>
+            <descricao><![CDATA[O estrangeiro deverá solicitar, preencher e apresentar formulário de naturalização na Delegacia de Polícia Federal mais próximo de sua residência.
+Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/unidades]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
