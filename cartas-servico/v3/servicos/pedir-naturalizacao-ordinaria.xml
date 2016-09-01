@@ -37,12 +37,12 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             <documentos>
                 <default>
                     <item>Requerimento devidamente assinado pelo naturalizando;</item>
-                    <item>Declaração de interesse em traduzir ou adaptar o nome à língua portuguesa;</item>
-                    <item>Certidão ou inscrição consular, emitida pela Embaixada ou Consulado no Brasil, comprovando a correta grafia do nome do interessado e de seus genitores;</item>
+                    <item>Declaração de interesse em traduzir ou adaptar o nome à língua portuguesa; ?</item>
+                    <item>Certidão ou inscrição consular, emitida pela Embaixada ou Consulado no Brasil, comprovando a correta grafia do nome do interessado e de seus genitores;?</item>
                     <item>Cópia da cédula de identidade para estrangeiro permanente atualizada;</item>
                     <item>Cópia do CPF ou cópia do recibo de entrega da última declaração de imposto de renda (pessoa física);</item>
                     <item>Comprovante de recolhimento da taxa (guia GRU) referente ao pedido de naturalização;</item>
-                    <item>Atestado de antecedentes criminais expedido pela Polícia Civil dos Estados onde residiu nos últimos cinco anos;</item>
+                    <item>Atestado de antecedentes criminais expedido pela Polícia Civil dos Estados onde residiu nos últimos cinco anos;?</item>
                     <item>Certidão negativa de ações criminais da Justiça Federal dos Estados onde residiu nos últimos cinco anos;</item>
                     <item>Certidão dos cartórios de distribuição de ações criminais das comarcas onde residiu nos últimos cinco anos;</item>
                     <item>Atestado de antecedentes criminais expedido pelo país de origem, legalizado junto à repartição consular brasileira e traduzido, no Brasil, por tradutor público Juramentado ou devidamente inscrito na Junta Comercial;</item>
@@ -51,19 +51,27 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
                     <item>*cópia de contrato de locação ou escritura de compra e venda de imóvel onde reside ou residiu no período imediatamente anterior ao pedido de naturalização, ou,</item>
                     <item>*genitor ou cônjuge ou companheiro, acompanhado respectivamente da certidão de nascimento, ou casamento, ou comprovação de união estável.</item>
                     <item>Cópia na íntegra do passaporte, observando as normas que regem o Mercosul;</item>
-                    <item>Cópia da certidão de casamento;</item>
-                    <item>Cópia da certidão de nascimento do filho brasileiro;</item>
                     <item>Documento comprobatório de renda, tais como:</item>
-                    <item>* cópia autenticada da íntegra da Carteira de Trabalho e Previdência Social - CTPS,</item>
-                    <item>*cópia autenticada do contrato de trabalho; cópia autenticada dos últimos três contracheques</item>
-                    <item>*cópia autenticada do Contrato Social consolidado da empresa da qual é sócio ou cotista</item>
-                    <item>*escritura pública declaratória de renda lavrada nos tabelionatos de notas,</item>
-                    <item>*cópia autenticada do cartão do Imposto Sobre Serviços - ISS,</item>
-                    <item>*comprovante de seu recolhimento ou RPA (Recibo de pagamento a autônomo).</item>
+                    <item>* cópia autenticada da íntegra da Carteira de Trabalho e Previdência Social - CTPS, se for o caso;</item>
+                    <item>*cópia autenticada do contrato de trabalho; cópia autenticada dos últimos três contracheques, se for o caso;</item>
+                    <item>*cópia autenticada do Contrato Social consolidado da empresa da qual é sócio ou cotista, se for o caso;</item>
+                    <item>*escritura pública declaratória de renda lavrada nos tabelionatos de notas, se for o caso;</item>
+                    <item>*cópia autenticada do cartão do Imposto Sobre Serviços - ISS, se for o caso;</item>
+                    <item>*comprovante de seu recolhimento ou RPA (Recibo de pagamento a autônomo), se for o caso.</item>
                 </default>
+                <caso descricao="Se estrangeiro casado com brasileiro, ou com filho brasileiro ou filho de brasileiro:">
+                    <item>Cópia da certidão de casamento ou da declaração de união estável com brasileiro, se casado com brasileiro ?</item>
+                    <item>Cópia da certidão de nascimento do filho brasileiro, se for o caso;</item>
+                </caso>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[?????]]></descricao>
+                        <moeda/>
+                        <valor/>
+                    </custo>
+                </default>
             </custos>
             <canais-de-prestacao>
                 <default>
