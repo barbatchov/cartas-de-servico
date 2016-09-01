@@ -83,8 +83,8 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Realizar teste de Português se necessário</titulo>
-            <descricao/>
+            <titulo>Realizar teste de português, se necessário.</titulo>
+            <descricao><![CDATA[O requerente poderá realizar o teste de português no momento da entrega do formulário ou em momento a ser agenda pelos servidores da Polícia Federal, conforme a disponibilidade do órgão. ????]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -92,12 +92,37 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[O estrangeiro deve se dirigir à Delegacia de Polícia Federal mais próximo de sua residência.
+Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/unidades.]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Realização de entrevista se necessário</titulo>
-            <descricao/>
+            <titulo>Participar de entrevista com agente de Polícia Federal, se necessário.</titulo>
+            <descricao><![CDATA[Caso sejam necessários maiores esclarecimentos, os servidores da Polícia Federal poderão agendar entrevista com o naturalizando, a ser realizada na unidade onde foi protocolado o pedido de Naturalização. ????]]></descricao>
+            <documentos>
+                <default>
+                    <item>Pode ser solicitado pelo agente no momento do agendamento da entrevista ??????</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[O estrangeiro deve se dirigir à Delegacia de Polícia Federal mais próximo de sua residência.
+Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/unidades]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Complementar documentação, caso seja necessário.</titulo>
+            <descricao><![CDATA[Nesta fase, o Departamento de Migrações do Ministério da Justiça e Cidadania poderá solicitar ao naturalizando que apresente documentos para complementar as informações do processo.]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -105,7 +130,11 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao><![CDATA[Sei??????]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
