@@ -7,7 +7,9 @@
     </nomes-populares>
     <descricao><![CDATA[É o ato pelo qual uma pessoa adquire voluntariamente a nacionalidade brasileira, desde que atenda os requisitos estabelecidos em lei.]]></descricao>
     <contato><![CDATA[O estrangeiro deve se dirigir à Delegacia de Polícia Federal mais próximo de sua residência.
-Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/unidades]]></contato>
+Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/unidades.
+
+Para consultar seu processo, acesse: http://www.justica.gov.br/Acesso/sistema-eletronico-de-informacoes-sei.]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
         <solicitante>
@@ -101,23 +103,6 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Assinar boletim de sindicância</titulo>
-            <descricao><![CDATA[??????]]></descricao>
-            <documentos>
-                <default/>
-            </documentos>
-            <custos>
-                <default/>
-            </custos>
-            <canais-de-prestacao>
-                <default>
-                    <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[??????]]></descricao>
-                    </canal-de-prestacao>
-                </default>
-            </canais-de-prestacao>
-        </etapa>
-        <etapa>
             <titulo>Participar de entrevista com agente de Polícia Federal, se necessário.</titulo>
             <descricao><![CDATA[Caso sejam necessários maiores esclarecimentos, os servidores da Polícia Federal poderão agendar entrevista com o naturalizando, a ser realizada na unidade onde foi protocolado o pedido de Naturalização. ????]]></descricao>
             <documentos>
@@ -185,6 +170,25 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             </custos>
             <canais-de-prestacao>
                 <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Emitir Certidão de Naturalização, quando necessário.</titulo>
+            <descricao><![CDATA[A certidão é expedida gratuitamente e sua autenticidade poderá ser conferida no próprio endereço eletrônico. Qualquer pessoa pode acessar o site e solicitar uma certidão ou conferir sua autenticidade.]]></descricao>
+            <documentos>
+                <default>
+                    <item>Não há.</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao><![CDATA[http://www.justica.gov.br/central-de-atendimento/estrangeiros/nacionalidade]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
