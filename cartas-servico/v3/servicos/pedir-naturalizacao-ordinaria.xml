@@ -12,9 +12,13 @@
         <solicitante>
             <tipo>Estrangeiro que reside há quatro anos no Brasil</tipo>
             <requisitos><![CDATA[-Morar no Brasil há quatro anos, saber ler e escrever português, ser registrado como permanente e não ter condenação superior a um ano;
-- Demonstrar capacidade financeira de viver no Brasil;
+- Exercer profissão ou possuir bens suficientes à manutenção própria e da família;
 - Ter boa conduta.
 - Saiba mais no art. 112 da Lei 6.815/80.]]></requisitos>
+        </solicitante>
+        <solicitante>
+            <tipo>Estrangeiro que reside há um ano no Brasil e possua cônjuge ou filho brasileiro</tipo>
+            <requisitos/>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
