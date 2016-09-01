@@ -6,7 +6,8 @@
         <item>Naturalização</item>
     </nomes-populares>
     <descricao><![CDATA[É o ato pelo qual uma pessoa adquire voluntariamente a nacionalidade brasileira, desde que atenda os requisitos estabelecidos em lei.]]></descricao>
-    <contato/>
+    <contato><![CDATA[O estrangeiro deve se dirigir à Delegacia de Polícia Federal mais próximo de sua residência.
+Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/unidades]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
         <solicitante>
@@ -81,6 +82,7 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
     <areas-de-interesse/>
     <palavras-chave/>
     <legislacoes>
-        <item><![CDATA[(Lei]]></item>
+        <item><![CDATA[(Lei 6.815/80)[http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1980-08-19;6815]
+(Decreto nº 86.715/81)[http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1981-12-10;86715]]]></item>
     </legislacoes>
 </servico>
