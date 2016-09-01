@@ -67,14 +67,14 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[O estrangeiro deverá se dirigir à Delegacia de Polícia Federal mais próximo de sua residência.
+                        <descricao><![CDATA[O estrangeiro deve se dirigir à Delegacia de Polícia Federal mais próximo de sua residência.
 Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/unidades]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
     <palavras-chave/>
