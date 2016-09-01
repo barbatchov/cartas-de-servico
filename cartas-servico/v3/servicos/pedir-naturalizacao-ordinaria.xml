@@ -8,7 +8,15 @@
     <descricao><![CDATA[É o ato pelo qual uma pessoa adquire voluntariamente a nacionalidade brasileira, desde que atenda os requisitos estabelecidos em lei.]]></descricao>
     <contato/>
     <gratuito>false</gratuito>
-    <solicitantes/>
+    <solicitantes>
+        <solicitante>
+            <tipo>Estrangeiro que reside há quatro anos no Brasil</tipo>
+            <requisitos><![CDATA[-Morar no Brasil há quatro anos, saber ler e escrever português, ser registrado como permanente e não ter condenação superior a um ano;
+- Demonstrar capacidade financeira de viver no Brasil;
+- Ter boa conduta.
+- Saiba mais no art. 112 da Lei 6.815/80.]]></requisitos>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
         <entre max="12" min="6" unidade="meses"/>
         <descricao><![CDATA[A previsão do tempo de conclusão depende também de que o solicitante apresente todos os documentos necessários.]]></descricao>
