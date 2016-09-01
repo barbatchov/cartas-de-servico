@@ -101,6 +101,23 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             </canais-de-prestacao>
         </etapa>
         <etapa>
+            <titulo>Assinar boletim de sindicância</titulo>
+            <descricao><![CDATA[??????]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[??????]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
             <titulo>Participar de entrevista com agente de Polícia Federal, se necessário.</titulo>
             <descricao><![CDATA[Caso sejam necessários maiores esclarecimentos, os servidores da Polícia Federal poderão agendar entrevista com o naturalizando, a ser realizada na unidade onde foi protocolado o pedido de Naturalização. ????]]></descricao>
             <documentos>
@@ -132,9 +149,42 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="web">
-                        <descricao><![CDATA[Sei??????]]></descricao>
+                        <descricao/>
                     </canal-de-prestacao>
                 </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Apresentar pedido de reconsideração (desarquivamento)</titulo>
+            <descricao><![CDATA[No prazo de 30 (trinta) dias contados da publicação da decisão que indeferir o pedido de naturalização, o requerente poderá apresentar um pedido de reconsideração, solicitando o desarquivamento do processo.]]></descricao>
+            <documentos>
+                <default>
+                    <item>Documentos que demonstrem a alteração de uma situação anterior (como, por exemplo, o cumprimento do prazo legal para obter a naturalização), se for o caso;</item>
+                    <item>Documentos que complementem o processo, se for o caso.</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao><![CDATA[SEI ????]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Apresentar recurso</titulo>
+            <descricao><![CDATA[No prazo de 30 (trinta) dias contados da publicação da decisão que indeferir o pedido de naturalização, o requerente poderá apresentar um pedido de reconsideração, solicitando o desarquivamento do processo e apresentando documentos que demonstrem a alteração de uma situação anterior (como, por exemplo, o cumprimento do prazo legal para obter a naturalização) ou apresentar documentos que complementem o processo.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
             </canais-de-prestacao>
         </etapa>
     </etapas>
