@@ -155,7 +155,7 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Apresentar pedido de reconsideração (desarquivamento)</titulo>
+            <titulo>Apresentar pedido de reconsideração (desarquivamento), se o pedido de naturalização for indeferido.</titulo>
             <descricao><![CDATA[No prazo de 30 (trinta) dias contados da publicação da decisão que indeferir o pedido de naturalização, o requerente poderá apresentar um pedido de reconsideração, solicitando o desarquivamento do processo.]]></descricao>
             <documentos>
                 <default>
@@ -175,7 +175,7 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Apresentar recurso</titulo>
+            <titulo>Apresentar recurso, se o pedido de naturalização for indeferido.</titulo>
             <descricao><![CDATA[No prazo de 30 (trinta) dias contados da publicação da decisão que indeferir o pedido de naturalização, o requerente poderá apresentar um pedido de reconsideração, solicitando o desarquivamento do processo e apresentando documentos que demonstrem a alteração de uma situação anterior (como, por exemplo, o cumprimento do prazo legal para obter a naturalização) ou apresentar documentos que complementem o processo.]]></descricao>
             <documentos>
                 <default/>
