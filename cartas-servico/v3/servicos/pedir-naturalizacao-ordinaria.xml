@@ -53,7 +53,7 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
                     <item>Comprovante de residência, tais como:</item>
                     <item>*contas de água ou energia ou telefone,</item>
                     <item>*cópia de contrato de locação ou escritura de compra e venda de imóvel onde reside ou residiu no período imediatamente anterior ao pedido de naturalização, ou,</item>
-                    <item>*genitor ou cônjuge ou companheiro, acompanhado respectivamente da certidão de nascimento, ou casamento, ou comprovação de união estável.</item>
+                    <item>*do genitor ou cônjuge ou companheiro, acompanhado respectivamente da certidão de nascimento, ou casamento, ou comprovação de união estável.</item>
                     <item>Cópia na íntegra do passaporte, observando as normas que regem o Mercosul;</item>
                     <item>Documento comprobatório de renda, tais como:</item>
                     <item>* cópia autenticada da íntegra da Carteira de Trabalho e Previdência Social - CTPS, se for o caso;</item>
@@ -71,9 +71,9 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             <custos>
                 <default>
                     <custo>
-                        <descricao><![CDATA[?????]]></descricao>
+                        <descricao/>
                         <moeda/>
-                        <valor/>
+                        <valor>296,64</valor>
                     </custo>
                 </default>
             </custos>
@@ -183,13 +183,7 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
                 </default>
             </documentos>
             <custos>
-                <default>
-                    <custo>
-                        <descricao/>
-                        <moeda/>
-                        <valor>296,64</valor>
-                    </custo>
-                </default>
+                <default/>
             </custos>
             <canais-de-prestacao>
                 <default>
