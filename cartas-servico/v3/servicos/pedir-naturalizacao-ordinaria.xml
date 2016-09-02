@@ -127,7 +127,13 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="web">
-                        <descricao/>
+                        <descricao><![CDATA[Protocolo eletrônico do Ministério da Justiça e Cidadania
+http://protocoloeletronico.mj.gov.br/protocolo_eletronico/pages/externo/login_externo.jsf]]></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao tipo="postal">
+                        <descricao><![CDATA[Ministério da Justiça e Cidadania
+Esplanada dos Ministério, Bloco T, Anexo II, Sala 318
+CEP: 70.064-901]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
