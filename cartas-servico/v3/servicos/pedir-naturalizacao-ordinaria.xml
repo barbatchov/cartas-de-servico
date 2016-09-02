@@ -183,7 +183,13 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
                 </default>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo>
+                        <descricao/>
+                        <moeda/>
+                        <valor>296,64</valor>
+                    </custo>
+                </default>
             </custos>
             <canais-de-prestacao>
                 <default>
