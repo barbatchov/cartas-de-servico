@@ -135,6 +135,10 @@ http://protocoloeletronico.mj.gov.br/protocolo_eletronico/pages/externo/login_ex
 Esplanada dos Ministério, Bloco T, Anexo II, Sala 318
 CEP: 70.064-901]]></descricao>
                     </canal-de-prestacao>
+                    <canal-de-prestacao tipo="web-acompanhar">
+                        <descricao><![CDATA[Consulte o seu processo:
+http://www.justica.gov.br/Acesso/sistema-eletronico-de-informacoes-sei]]></descricao>
+                    </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
@@ -160,8 +164,13 @@ CEP: 70.064-901]]></descricao>
             </custos>
             <canais-de-prestacao>
                 <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao><![CDATA[Protocolo eletrônico do Ministério da Justiça e Cidadania
+http://protocoloeletronico.mj.gov.br/protocolo_eletronico/pages/externo/login_externo.jsf]]></descricao>
+                    </canal-de-prestacao>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao/>
+                        <descricao><![CDATA[O estrangeiro deve se dirigir à Delegacia de Polícia Federal mais próximo de sua residência.
+Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/unidades.]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
