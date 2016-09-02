@@ -16,15 +16,15 @@ Divisão de Naturalizaçâo: processos.migracoes@mj.gov.br.]]></contato>
     <solicitantes>
         <solicitante>
             <tipo>Estrangeiro que reside no Brasil</tipo>
-            <requisitos><![CDATA[-Morar no Brasil há quatro anos, saber ler e escrever português e ser registrado como permanente;
+            <requisitos><![CDATA[Morar no Brasil há quatro anos, saber ler e escrever português e ser registrado como permanente;
 - Exercer profissão ou possuir bens suficientes à manutenção própria e da família;
 - Ter boa conduta;
 - Cumprir demais requisitos do art. 112 da Lei 6.815/80.]]></requisitos>
         </solicitante>
         <solicitante>
             <tipo>Estrangeiro(a) casado(a) com brasileiro(a), ou que seja filho(a) de brasileiro(a) ou tenha filho(a) brasileiro(a)</tipo>
-            <requisitos><![CDATA[-Morar no Brasil há um ano, saber ler e escrever português e ser registrado como permanente;
-- Exercer profissão ou possuir bens suficientes à manutenção própria e da família;
+            <requisitos><![CDATA[Morar no Brasil há um ano, saber ler e escrever português e ser registrado como permanente;
+-Exercer profissão ou possuir bens suficientes à manutenção própria e da família;
 - Ter boa conduta;
 - Cumprir demais requisitos do art. 112 da Lei 6.815/80.]]></requisitos>
         </solicitante>
@@ -36,7 +36,7 @@ Divisão de Naturalizaçâo: processos.migracoes@mj.gov.br.]]></contato>
     <etapas>
         <etapa>
             <titulo>Apresentar Requerimento</titulo>
-            <descricao><![CDATA[O estrangeiro deverá solicitar, preencher e entregar o formulário de naturalização na Delegacia de Polícia Federal mais próximo de sua residência.
+            <descricao><![CDATA[O estrangeiro deverá solicitar, preencher e entregar o formulário de naturalização na Delegacia de Polícia Federal mais próxima de sua residência.
 Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/unidades]]></descricao>
             <documentos>
                 <default>
