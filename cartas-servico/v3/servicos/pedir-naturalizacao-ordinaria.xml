@@ -55,8 +55,8 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
                     <item>Documento comprobatório de renda, tais como os descritos no item 15 do Anexo I da Portaria MJ nº 1.949/2015</item>
                 </default>
                 <caso descricao="Se estrangeiro casado com brasileiro, ou com filho brasileiro ou filho de brasileiro:">
-                    <item>Cópia da certidão de casamento ou da declaração de união estável com brasileiro, se casado com brasileiro</item>
-                    <item>Cópia da certidão de nascimento do filho brasileiro, se for o caso;</item>
+                    <item>Cópia da certidão de casamento ou da declaração de união estável com brasileiro.</item>
+                    <item>Cópia da certidão de nascimento comprovando o vínculo de parentesco, se for o caso;</item>
                 </caso>
             </documentos>
             <custos>
