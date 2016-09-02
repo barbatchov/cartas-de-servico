@@ -110,7 +110,7 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[O estrangeiro deve se dirigir à Unidade de Polícia Federal onde foi protocolado seu pedido de naturalização, podendo ser alterada em caso de mudança de endereço do requerente.]]></descricao>
+                        <descricao><![CDATA[O estrangeiro deve se dirigir à Unidade da Polícia Federal onde foi protocolado seu pedido de naturalização, podendo ser alterada em caso de mudança de endereço do requerente.]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
