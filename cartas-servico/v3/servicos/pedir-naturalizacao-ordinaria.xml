@@ -64,7 +64,7 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
                     <item>*comprovante de seu recolhimento ou RPA (Recibo de pagamento a autônomo), se for o caso.</item>
                 </default>
                 <caso descricao="Se estrangeiro casado com brasileiro, ou com filho brasileiro ou filho de brasileiro:">
-                    <item>Cópia da certidão de casamento ou da declaração de união estável com brasileiro, se casado com brasileiro ?</item>
+                    <item>Cópia da certidão de casamento ou da declaração de união estável com brasileiro, se casado com brasileiro</item>
                     <item>Cópia da certidão de nascimento do filho brasileiro, se for o caso;</item>
                 </caso>
             </documentos>
