@@ -144,11 +144,18 @@ CEP: 70.064-901]]></descricao>
             <documentos>
                 <default>
                     <item>Documentos que demonstrem a alteração de uma situação anterior (como, por exemplo, o cumprimento do prazo legal para obter a naturalização), se for o caso;</item>
-                    <item>Documentos que complementem o processo, se for o caso.</item>
+                    <item>Documentos que complementem o processo, se for o caso;</item>
+                    <item>Comprovante de pagamento da GRU.</item>
                 </default>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo>
+                        <descricao/>
+                        <moeda/>
+                        <valor>593,26</valor>
+                    </custo>
+                </default>
             </custos>
             <canais-de-prestacao>
                 <default>
