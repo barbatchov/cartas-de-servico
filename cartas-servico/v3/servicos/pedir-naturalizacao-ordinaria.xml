@@ -52,13 +52,7 @@ Consulte a unidade mais próxima de você: http://www.pf.gov.br/institucional/un
                     <item>Atestado de antecedentes criminais expedido pelo país de origem, legalizado junto à repartição consular brasileira e traduzido, no Brasil, por tradutor público Juramentado ou devidamente inscrito na Junta Comercial;</item>
                     <item>Comprovante de residência, tais como os descritos no art. 11 da Portaria MJ nº 1.949/2015</item>
                     <item>Cópia na íntegra do passaporte, observando as normas que regem o Mercosul;</item>
-                    <item>Documento comprobatório de renda, tais como:</item>
-                    <item>* cópia autenticada da íntegra da Carteira de Trabalho e Previdência Social - CTPS, se for o caso;</item>
-                    <item>*cópia autenticada do contrato de trabalho; cópia autenticada dos últimos três contracheques, se for o caso;</item>
-                    <item>*cópia autenticada do Contrato Social consolidado da empresa da qual é sócio ou cotista, se for o caso;</item>
-                    <item>*escritura pública declaratória de renda lavrada nos tabelionatos de notas, se for o caso;</item>
-                    <item>*cópia autenticada do cartão do Imposto Sobre Serviços - ISS, se for o caso;</item>
-                    <item>*comprovante de seu recolhimento ou RPA (Recibo de pagamento a autônomo), se for o caso.</item>
+                    <item>Documento comprobatório de renda, tais como os descritos no item 15 do Anexo I da Portaria MJ nº 1.949/2015</item>
                 </default>
                 <caso descricao="Se estrangeiro casado com brasileiro, ou com filho brasileiro ou filho de brasileiro:">
                     <item>Cópia da certidão de casamento ou da declaração de união estável com brasileiro, se casado com brasileiro</item>
