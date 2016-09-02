@@ -143,9 +143,10 @@ CEP: 70.064-901]]></descricao>
             <descricao><![CDATA[No prazo de 30 (trinta) dias contados da publicação da decisão que indeferir o pedido de naturalização, o requerente poderá apresentar um pedido de reconsideração, solicitando o desarquivamento do processo.]]></descricao>
             <documentos>
                 <default>
+                    <item>Requerimento</item>
+                    <item>Comprovante de pagamento da GRU.</item>
                     <item>Documentos que demonstrem a alteração de uma situação anterior (como, por exemplo, o cumprimento do prazo legal para obter a naturalização), se for o caso;</item>
                     <item>Documentos que complementem o processo, se for o caso;</item>
-                    <item>Comprovante de pagamento da GRU.</item>
                 </default>
             </documentos>
             <custos>
