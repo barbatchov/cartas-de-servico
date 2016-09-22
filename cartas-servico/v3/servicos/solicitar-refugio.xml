@@ -8,8 +8,13 @@
     </nomes-populares>
     <descricao><![CDATA[É uma proteção legal que o Brasil oferece a cidadãos de outros países que estejam sofrendo perseguição por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas, ou ainda, que estejam sujeitos, em seu país, a grave e generalizada violação de direitos humanos.]]></descricao>
     <contato/>
-    <gratuito/>
-    <solicitantes/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Estrangeiro</tipo>
+            <requisitos><![CDATA[Possuir fundado temor de perseguição por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas encontrando-se fora de seu país de nacionalidade e não possa ou não queira ser protegido por este país.]]></requisitos>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
         <descricao/>
     </tempo-total-estimado>
