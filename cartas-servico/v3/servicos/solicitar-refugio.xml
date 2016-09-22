@@ -24,9 +24,24 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
+        <entre max="48" min="24" unidade="meses"/>
         <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Preencher Solicitação de Refúgio</titulo>
+            <descricao><![CDATA[O estrangeiro deve procurar qualquer delegacia da Polícia Federal ou autoridade migratória na fronteira e solicitar, formalmente, a proteção do governo brasileiro.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
