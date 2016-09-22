@@ -63,9 +63,20 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao/>
+                        <descricao><![CDATA[BRASILIA: Sede do Ministério da Justiça: Esplanada dos Ministérios, Palácio da Justiça, Edifício Anexo II.
+
+PORTO ALEGRE: Sede do Instituto Federal do Rio Grande do Sul: Rua Coronel Vicente, 281. Centro.
+
+RIO DE JANEIRO: Arquivo Nacional: Rua Azeredo Coutinho, 77, Bloco E, Sala 205. – Centro.
+
+São Paulo:Sede da Defensoria Pública da União: Rua Fernando de Albuquerque, 155. Bairro Consolação, São Paulo - SP (metrô: Consolação ou Paulista) ou Sede de Incubadora de Direitos Humanos da Prefeitura de São Paulo: Rua Otto de Alencar, 270. Cambuci.]]></descricao>
                     </canal-de-prestacao>
                 </default>
+                <caso descricao="Videoconferência">
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[As entrevistas podem ser presenciais ou por videoconferência.]]></descricao>
+                    </canal-de-prestacao>
+                </caso>
             </canais-de-prestacao>
         </etapa>
     </etapas>
