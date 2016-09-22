@@ -108,7 +108,11 @@ São Paulo:Sede da Defensoria Pública da União: Rua Fernando de Albuquerque, 1
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Consulte a unidade mais próxima de você:http://www.pf.gov.br/institucional/unidades.]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
