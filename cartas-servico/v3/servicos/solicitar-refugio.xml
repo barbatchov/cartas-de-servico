@@ -98,6 +98,19 @@ São Paulo:Sede da Defensoria Pública da União: Rua Fernando de Albuquerque, 1
                 </default>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Refúgio Concedido</titulo>
+            <descricao><![CDATA[Em caso de deferimento, o solicitante deve se dirigir a uma Unidade ou Posto da Polícia Federal (Serviço de Cadastro e Registro de Estrangeiros) para emissão do seu Registro Nacional de Estrangeiro.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
