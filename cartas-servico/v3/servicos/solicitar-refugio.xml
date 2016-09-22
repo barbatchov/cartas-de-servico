@@ -24,7 +24,7 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <entre max="48" min="24" unidade="meses"/>
+        <entre max="24" min="12" unidade="meses"/>
         <descricao/>
     </tempo-total-estimado>
     <etapas>
