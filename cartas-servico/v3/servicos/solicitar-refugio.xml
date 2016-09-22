@@ -118,6 +118,23 @@ São Paulo:Sede da Defensoria Pública da União: Rua Fernando de Albuquerque, 1
                 </default>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Refúgio Negado</titulo>
+            <descricao><![CDATA[O solicitante tem o direito de receber cópia integral da decisão do CONARE e se discordar da fundamentação dada poderá entrar com recurso. Neste caso, convém pedir auxílio a um advogado.O solicitante deverá preencher o formulário de recurso abaixo e entrega-lo no Departamento de Polícia Federal mais próximo à sua residência, em até 15 dias da data de recebimento da notificação.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Consulte a unidade mais próxima de você:http://www.pf.gov.br/institucional/unidades]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
