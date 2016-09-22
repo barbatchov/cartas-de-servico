@@ -18,6 +18,10 @@
             <tipo>Estrangeiro</tipo>
             <requisitos><![CDATA[Não possua nacionalidade e estando fora do país onde antes teve sua residência habitual, não possa ou não queira regressar a ele, em função de perseguição por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas.]]></requisitos>
         </solicitante>
+        <solicitante>
+            <tipo>Estrangeiro</tipo>
+            <requisitos><![CDATA[Que devido a grave e generalizada violação de direitos humanos, é obrigado a deixar seu país de nacionalidade para buscar refúgio em outro país.]]></requisitos>
+        </solicitante>
     </solicitantes>
     <tempo-total-estimado>
         <descricao/>
