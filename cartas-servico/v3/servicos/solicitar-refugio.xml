@@ -47,6 +47,19 @@
                 </default>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Entrevista</titulo>
+            <descricao><![CDATA[Na entrevista o solicitante deve dar ao entrevistador o maior número possível de dados e informações a fim de demonstrar que se enquadra no conceito de refugiado da Lei 9.474/1997. Nesse momento, é fundamental que sejam detalhados os riscos de se voltar ao país de origem e as perseguições sofridas. A entrevista tem grande importância na decisão tomada pelo Plenário do CONARE, por esta razão é fundamental que o solicitante mantenha o seu endereço atualizado junto ao CONARE.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
