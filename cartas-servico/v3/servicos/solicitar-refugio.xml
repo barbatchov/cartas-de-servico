@@ -51,13 +51,21 @@
             <titulo>Entrevista</titulo>
             <descricao><![CDATA[Na entrevista o solicitante deve dar ao entrevistador o maior número possível de dados e informações a fim de demonstrar que se enquadra no conceito de refugiado da Lei 9.474/1997. Nesse momento, é fundamental que sejam detalhados os riscos de se voltar ao país de origem e as perseguições sofridas. A entrevista tem grande importância na decisão tomada pelo Plenário do CONARE, por esta razão é fundamental que o solicitante mantenha o seu endereço atualizado junto ao CONARE.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Documento de identificação do país de origem (caso não possua documento de identificação, leve qualquer outro documento, mesmo que em cópia, que possa servir de comprovação de sua nacionalidade, por exemplo: certificado de conclusão de curso, diploma, certificado médico, etc);</item>
+                    <item>Protocolo do Pedido de Refúgio;</item>
+                    <item>Quaisquer outros documentos de suporte à sua solicitação de refúgio (fotos, recortes de jornal, cartas, etc).</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
