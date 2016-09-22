@@ -42,7 +42,7 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[O refugiado poderá procurar qualquer Delegacia da Polícia Federal.]]></descricao>
+                        <descricao><![CDATA[O refugiado poderá procurar qualquer Unidade ou Posto da Polícia Federal. Consulte a unidade mais próxima de você:http://www.pf.gov.br/institucional/unidades.]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
