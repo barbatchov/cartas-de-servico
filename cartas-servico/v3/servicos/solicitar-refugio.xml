@@ -79,6 +79,19 @@ São Paulo:Sede da Defensoria Pública da União: Rua Fernando de Albuquerque, 1
                 </caso>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Consultar Processo em Unidade ou Posto da Polícia Federal</titulo>
+            <descricao><![CDATA[Para conhecer a decisão de seu processo o solicitante deverá se dirigir a uma Unidade da Polícia Federal com o Protocolo de Refúgio. Consulte a unidade mais próxima de você:http://www.pf.gov.br/institucional/unidades.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
