@@ -80,8 +80,8 @@ São Paulo:Sede da Defensoria Pública da União: Rua Fernando de Albuquerque, 1
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Consultar Processo em Unidade ou Posto da Polícia Federal</titulo>
-            <descricao><![CDATA[Para conhecer a decisão do seu processo, o solicitante deverá se dirigir a uma Unidade da Polícia Federal com o Protocolo de Refúgio.]]></descricao>
+            <titulo>Consultar Processo</titulo>
+            <descricao><![CDATA[Para conhecer o andamento do seu processo, o solicitante deverá se dirigir a uma Unidade da Polícia Federal com o Protocolo de Refúgio. Ou por meio do Sistema Eletrônico de Informações - SEI do Ministério da Justiça colocando seu número de protocolo.]]></descricao>
             <documentos>
                 <default>
                     <item>Protocolo de Refúgio</item>
@@ -94,6 +94,9 @@ São Paulo:Sede da Defensoria Pública da União: Rua Fernando de Albuquerque, 1
                 <default>
                     <canal-de-prestacao tipo="presencial">
                         <descricao><![CDATA[Consulte a unidade mais próxima de você:http://www.pf.gov.br/institucional/unidades.]]></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao tipo="web-acompanhar">
+                        <descricao><![CDATA[http://www.justica.gov.br/Acesso/sistema-eletronico-de-informacoes-sei]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
