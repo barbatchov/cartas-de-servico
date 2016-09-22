@@ -30,15 +30,21 @@
     <etapas>
         <etapa>
             <titulo>Preencher Solicitação de Refúgio</titulo>
-            <descricao><![CDATA[O estrangeiro deve procurar qualquer delegacia da Polícia Federal ou autoridade migratória na fronteira e solicitar, formalmente, a proteção do governo brasileiro.]]></descricao>
+            <descricao><![CDATA[O estrangeiro deve procurar qualquer delegacia da Polícia Federal e solicitar, formalmente, a proteção do governo brasileiro.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Formulário de Solicitação de Refúgio Preenchido</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[O refugiado poderá procurar qualquer Delegacia da Polícia Federal.]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
