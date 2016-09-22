@@ -137,6 +137,25 @@ São Paulo:Sede da Defensoria Pública da União: Rua Fernando de Albuquerque, 1
                 </default>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Autorização de Viagem de Refugiado</titulo>
+            <descricao><![CDATA[O refugiado que pretende realizar viagem ao exterior, para não incorrer na perda desta condição, deverá solicitar autorização de viagem ao CONARE. O pedido de autorização de viagem deverá ser apresentado com antecedência de 60 (sessenta) dias, diretamente ao CONARE em meio físico, contendo informações relativas ao período, o destino, contato no Brasil e contato no local de destino; ou eletronicamente pelo formulário de solicitação de autorização de viagem.]]></descricao>
+            <documentos>
+                <default>
+                    <item>Formulário de solicitação de autorização de viagem:http://formularios.mj.gov.br/limesurvey/index.php/575192</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="e-mail">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
