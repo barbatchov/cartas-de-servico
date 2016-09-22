@@ -14,6 +14,10 @@
             <tipo>Estrangeiro</tipo>
             <requisitos><![CDATA[Possuir fundado temor de perseguição por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas encontrando-se fora de seu país de nacionalidade e não possa ou não queira ser protegido por este país.]]></requisitos>
         </solicitante>
+        <solicitante>
+            <tipo>Estrangeiro</tipo>
+            <requisitos><![CDATA[Não possua nacionalidade e estando fora do país onde antes teve sua residência habitual, não possa ou não queira regressar a ele, em função de perseguição por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas.]]></requisitos>
+        </solicitante>
     </solicitantes>
     <tempo-total-estimado>
         <descricao/>
