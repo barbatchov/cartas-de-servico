@@ -25,7 +25,23 @@
         <entre max="30" min="2" unidade="dias-corridos"/>
         <descricao><![CDATA[Via de regra, a indenização fica disponível para saque pelo cidadão em 48 horas após a entrega da arma. O saque pode ser realizado em até 30 dias a contar da data de entrega.]]></descricao>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Emissão da Guia de Trânsito da arma a ser entregue</titulo>
+            <descricao><![CDATA[Nessa etapa, o cidadão deverá preencher a Guia de Trânsito onde estarão descritos os postos credenciados para entrega de armas. 
+
+A Guia de Trânsito é um documento obrigatório para que o cidadão transporte legalmente a arma de sua residência ou local de trabalho até o posto no qual a arma será entregue.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
