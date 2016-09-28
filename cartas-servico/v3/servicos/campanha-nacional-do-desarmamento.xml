@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Campanha Nacional do Desarmamento</nome>
+    <nome><![CDATA[Campanha Nacional do Desarmamento]]></nome>
     <sigla/>
-    <nomes-populares/>
+    <nomes-populares>
+        <item>Campanha do Desarmamento</item>
+        <item>Desarmamento</item>
+        <item>Entrega voluntária de armas</item>
+        <item>Desarma</item>
+        <item>Indenização</item>
+        <item>Entrega de armas</item>
+        <item>Controle de Armas</item>
+        <item>Saque de indenização</item>
+    </nomes-populares>
     <descricao/>
     <contato/>
     <gratuito/>
