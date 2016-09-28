@@ -17,7 +17,8 @@
     <gratuito/>
     <solicitantes/>
     <tempo-total-estimado>
-        <descricao/>
+        <entre max="30" min="2" unidade="dias-corridos"/>
+        <descricao><![CDATA[Via de regra, a indenização fica disponível para saque pelo cidadão em 48 horas após a entrega da arma. O saque pode ser realizado em até 30 dias a contar da data de entrega.]]></descricao>
     </tempo-total-estimado>
     <etapas/>
     <orgao id=""/>
