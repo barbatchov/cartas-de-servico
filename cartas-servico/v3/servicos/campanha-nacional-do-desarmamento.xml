@@ -18,7 +18,7 @@
     <solicitantes>
         <solicitante>
             <tipo>Qualquer cidadão (pessoa física)</tipo>
-            <requisitos/>
+            <requisitos><![CDATA[Estar de posse de uma arma de fogo, seja esta registrada ou não.]]></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
