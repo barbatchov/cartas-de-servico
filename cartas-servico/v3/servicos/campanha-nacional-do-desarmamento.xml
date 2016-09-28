@@ -14,8 +14,13 @@
     </nomes-populares>
     <descricao><![CDATA[A Campanha Nacional do Desarmamento é uma ação do Governo Federal de prevenção à violência.O Estatuto do Desarmamento prevê a possibilidade dos possuidores e dos proprietários de armas de fogo entregarem-nas voluntariamente e a qualquer tempo nas unidades da Polícia Federal, ou em órgãos ou entidades credenciados pelo Ministério da Justiça e Cidadania. O cidadão tem direito ao anonimato e ao recebimento de indenização pela(s) arma(s) entregue(s).]]></descricao>
     <contato/>
-    <gratuito/>
-    <solicitantes/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Qualquer cidadão (pessoa física)</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
         <entre max="30" min="2" unidade="dias-corridos"/>
         <descricao><![CDATA[Via de regra, a indenização fica disponível para saque pelo cidadão em 48 horas após a entrega da arma. O saque pode ser realizado em até 30 dias a contar da data de entrega.]]></descricao>
