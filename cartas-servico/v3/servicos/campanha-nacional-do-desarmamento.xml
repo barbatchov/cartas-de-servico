@@ -30,9 +30,12 @@
             <titulo>Emissão da Guia de Trânsito da arma a ser entregue</titulo>
             <descricao><![CDATA[Nessa etapa, o cidadão deverá preencher a Guia de Trânsito onde estarão descritos os postos credenciados para entrega de armas. 
 
-A Guia de Trânsito é um documento obrigatório para que o cidadão transporte legalmente a arma de sua residência ou local de trabalho até o posto no qual a arma será entregue.]]></descricao>
+A Guia de Trânsito é um documento obrigatório para que o cidadão transporte legalmente a arma de sua residência ou local de trabalho até o posto no qual a arma será entregue. Durante o próprio preenchimento da guia, o cidadão poderá consultar a lista de postos de entrega credenciados.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Guia de Trânsito</item>
+                    <item>Registro e documentos da arma (opcionais)</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
