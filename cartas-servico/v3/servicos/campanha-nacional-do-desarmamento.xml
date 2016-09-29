@@ -46,7 +46,7 @@ A Guia de Trânsito é um documento obrigatório para que o cidadão transporte 
                         <descricao><![CDATA[http://desarma.mj.gov.br/SisDesarmamento/formulario/portador.do]]></descricao>
                     </canal-de-prestacao>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[Caso o cidadão não tenha acesso à internet ou uma impressora, poderá se dirigir a um posto de coleta credenciado para emitir a guia de trânsito (obrigatória para o transporte da arma).]]></descricao>
+                        <descricao><![CDATA[Caso o cidadão não tenha acesso à internet ou uma impressora, poderá se dirigir a um posto de coleta credenciado para emitir a guia de trânsito obrigatória, antes de transportar a arma.]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
